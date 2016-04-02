@@ -1,0 +1,85 @@
+html
+body
+  background url('../img/fondo.png') no-repeat
+  background-size cover
+  width 100%
+  height 100%
+  background-attachment fixed
+
+.menu-estatico
+  position fixed
+  top 0
+  width 100%
+
+.cabecera
+  .logos-cabecera
+    background white
+    .logos-lista
+      margin 0
+      padding 0
+      display flex
+      display -webkit-flex
+      display -moz-flex
+      flex-direction row
+      justify-content space-between 
+      list-style none
+      .log-sep-lista
+        width 25%
+        .figura-logos-img
+          img
+            width 100%
+            border-radius 0em 0em .5em 0em
+            box-shadow .3em .1em 1em white
+      .name-school
+        width 65%
+        text-align center
+        font-family 'Source Sans Pro', sans-serif
+        font-weight 700
+        color letras
+        //text-shadow .1em 0em .1em #000
+        h1
+      .log-itzo-img
+        width 10%
+        .figura-logos-img-itzo
+          margin 0
+          display inline-block
+          img
+            width 80%
+  .menu
+    background white
+    border .1em solid borde
+    border-left 0em
+    border-right 0em
+    //box-shadow .1em .1em .1em #000
+    .opciones-menu
+      margin 0
+      padding 0
+      display flex
+      display -webkit-flex
+      display -moz-flex
+      flex-direction row
+      justify-content space-around
+      list-style none
+      li
+        a
+          font-family 'Source Sans Pro', sans-serif
+          color letras
+          text-decoration none
+          padding 1em
+          display block
+          transition .5s
+          -moz-transition .5s
+          -webkit-transition .5s
+          font-weight 700
+        a:hover
+          background letras
+          color white
+          transition .5s
+          -moz-transition .5s
+          -webkit-transition .5s
+
+.cuerpo
+  height 100%
+
+.pies
+  background black
