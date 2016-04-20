@@ -10,6 +10,15 @@ body
   position fixed
   top 0
   width 100%
+  z-index 1010
+  transition .5s
+  -moz-transition .5s
+  -webkit-transition .5s
+  background rgba(255,255,255,0.95)
+
+
+.blanco
+  background rgba(255,255,255,1)
 
 .cabecera
   .logos-cabecera
@@ -46,7 +55,6 @@ body
           img
             width 80%
   .menu
-    background white
     border .1em solid borde
     border-left 0em
     border-right 0em
@@ -71,6 +79,7 @@ body
           -moz-transition .5s
           -webkit-transition .5s
           font-weight 700
+          outline 0
         a:hover
           background letras
           color white
@@ -80,6 +89,224 @@ body
 
 .cuerpo
   height 100%
+  position relative
+  .sitios-opciones
+    position absolute
+    bottom 0
+    width 100%
+    background white
+    padding 1em 0em
+    .menu-opciones-paginas
+      margin 0
+      padding 0
+      list-style none
+      display flex
+      display -webkit-flex
+      display -moz-flex
+      flex-direction row
+      justify-content space-between
+      li
+        width 24%
+        figure
+          width 100%
+          img
+            width 100%
 
 .pies
-  background black
+  background #3A4750
+  .pies-lista
+    padding 1em
+    display flex
+    display -webkit-flex
+    display -moz-flex
+    flex-direction row
+    justify-content space-around
+    color white
+    margin 0
+    list-style none
+    li
+      .redes-lista
+        list-style none
+        font-family 'Source Sans Pro', sans-serif
+        font-weight 700
+.menus-opciones
+  width 100%
+  height 100%
+  position absolute
+  background rgba(255,255,255,0.8)
+  top 0
+  transition 1s
+  -webkit-transition 1s
+  -moz-transition 1s
+  display flex
+  display -webkit-flex
+  display -moz-flex
+  flex-direction row
+  justify-content space-around
+  overflow auto
+  .lista-opciones-instituto
+    list-style none
+    display flex
+    display -webkit-flex
+    display -moz-flex
+    flex-direction column
+    justify-content space-around
+    text-align center
+    li
+      font-size 2em
+      border-bottom .02em solid borde
+      a
+        font-family 'Source Sans Pro', sans-serif
+        font-weight 700
+        color letras
+        text-decoration none
+        display block
+        padding .5em
+        transition 1s
+        -webkit-transition 1s
+        -moz-transition 1s
+      a:hover
+        background letras
+        color white
+        transition 1s
+        -webkit-transition 1s
+        -moz-transition 1s
+
+.titulo-notas-t
+  width 100%
+  text-align center
+  color letras
+  font-family 'Source Sans Pro', sans-serif
+  font-weight 700
+  font-size 1.5em
+  background white
+  border-bottom .05em solid #d4d4d4
+  border-top .05em solid #d4d4d4
+  h4
+    padding .5em
+    margin 0em
+    font-size 1.5em
+    //text-shadow 0em .1em .1em #000
+
+.noticia-inicio
+  width 100%
+  .noticia-nota
+    display flex
+    display -webkit-flex
+    display -moz-flex
+    flex-direction row
+    justify-content space-around
+    flex-wrap wrap
+    -webkit-flex-wrap wrap
+    list-style none
+    padding .5em
+    background url('../img/segundo.png') no-repeat
+    background-size cover
+    background-attachment fixed
+    margin 0
+    .nota-lista-noticia
+      width 30%
+      margin .5em
+      .articulo-noticia
+        width 100%
+        border .1em solid borde
+        border-radius .1em
+        background white
+        .imagen-articulo-nota
+          width 100%
+          text-align center
+          img
+            width 80%
+            margin-top 1em
+        h3
+          color #3A4750
+          text-align center
+          font-family 'Source Sans Pro', sans-serif
+          font-weight 700
+          font-size 1.5em
+          margin .5em 0em
+        .nota-texto
+          text-align justify
+          color #3A4750
+          font-family 'Source Sans Pro', sans-serif
+          font-weight 400
+          padding 1.5em
+          margin-top 0em
+        .leer-mas
+          color #3A4750
+          border .01em solid #3A4750
+          outline 0
+          padding .5em
+          display block
+          text-align center
+          margin .2em
+          text-decoration none
+          font-family 'Source Sans Pro', sans-serif
+          font-weight 700
+          transition 1s
+          -webkit-transition 1s
+          -moz-transition 1s
+          &:hover
+            color white
+            background #3A4750
+            transition 1s
+            -webkit-transition 1s
+            -moz-transition 1s
+.no-mover
+  position fixed
+
+.no-visto
+  display hidden
+  transition 1s
+  -webkit-transition 1s
+  -moz-transition 1s
+.no-visto-lista
+  display none
+  transition 1s
+  -webkit-transition 1s
+  -moz-transition 1s
+
+.arriba-boton-x
+  position fixed
+  top 3%
+  right 3%
+  color letras
+  transition 1s
+  -webkit-transition 1s
+  -moz-transition 1s
+  font-size 2em
+  text-decoration none
+
+.noticias-importantes
+  width 100%
+  height 70%
+  overflow hidden
+
+@keyframes fade {
+ 33%{
+  opacity: 1
+ }
+ 66%{
+ opacity: 0
+ }
+}
+    
+
+.p
+  opacity 0
+  animation fade 30s infinite both
+  color white
+  font-size 2em
+  font-family 'Source Sans Pro', sans-serif
+  font-weight 700
+  position absolute
+  width 50%
+  top 1%
+  text-align center
+  text-shadow 0em 0em .1em #000
+
+  &:nth-child(2)
+    animation-delay 10s 
+
+  &:nth-child(3)
+    animation-delay 20s

@@ -14,15 +14,100 @@ function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { de
 exports.default = function () {
   var altura = (0, _jquery2.default)('#menu-cont').offset().top;
 
-  console.log(altura);
-
   (0, _jquery2.default)(window).on('scroll', function () {
     if ((0, _jquery2.default)(window).scrollTop() > altura) {
       (0, _jquery2.default)('#menu-cont').addClass('menu-estatico');
+      (0, _jquery2.default)('#menu-cont').removeClass('blanco');
     } else {
       (0, _jquery2.default)('#menu-cont').removeClass('menu-estatico');
+      (0, _jquery2.default)('#menu-cont').addClass('blanco');
     }
   });
+
+  function instituto(e) {
+    (0, _jquery2.default)('#instituto').removeClass('no-visto');
+    (0, _jquery2.default)('#instituto-lista').removeClass('no-visto-lista');
+    (0, _jquery2.default)('#cerrar-menu').removeClass('no-visto-lista');
+    (0, _jquery2.default)('#instituto').addClass('menus-opciones');
+    (0, _jquery2.default)('#instituto-lista').addClass('lista-opciones-instituto');
+    (0, _jquery2.default)('body').addClass('no-mover');
+    (0, _jquery2.default)('#cerrar-menu').addClass('arriba-boton-x');
+    e.preventDefault();
+  }
+
+  function oferta(e) {
+    (0, _jquery2.default)('#ofertas').removeClass('no-visto');
+    (0, _jquery2.default)('#instituto-lista-oferta').removeClass('no-visto-lista');
+    (0, _jquery2.default)('#cerrar-menu-oferta').removeClass('no-visto-lista');
+    (0, _jquery2.default)('#ofertas').addClass('menus-opciones');
+    (0, _jquery2.default)('#instituto-lista-oferta').addClass('lista-opciones-instituto');
+    (0, _jquery2.default)('body').addClass('no-mover');
+    (0, _jquery2.default)('#cerrar-menu-oferta').addClass('arriba-boton-x');
+    e.preventDefault();
+  }
+
+  function centroServicio(e) {
+    (0, _jquery2.default)('#centroServicio').removeClass('no-visto');
+    (0, _jquery2.default)('#instituto-lista-centro').removeClass('no-visto-lista');
+    (0, _jquery2.default)('#cerrar-menu-centro').removeClass('no-visto-lista');
+    (0, _jquery2.default)('#centroServicio').addClass('menus-opciones');
+    (0, _jquery2.default)('#instituto-lista-centro').addClass('lista-opciones-instituto');
+    (0, _jquery2.default)('body').addClass('no-mover');
+    (0, _jquery2.default)('#cerrar-menu-centro').addClass('arriba-boton-x');
+    e.preventDefault();
+  }
+
+  //Cerar menu
+  function cerrarMenu(e) {
+
+    //agregar
+    (0, _jquery2.default)('#instituto').removeClass('menus-opciones');
+    (0, _jquery2.default)('#instituto-lista').removeClass('lista-opciones-instituto');
+    (0, _jquery2.default)('#cerrar-menu').removeClass('arriba-boton-x');
+    (0, _jquery2.default)('body').removeClass('no-mover');
+
+    //remover
+    (0, _jquery2.default)('#instituto').addClass('no-visto');
+    (0, _jquery2.default)('#instituto-lista').addClass('no-visto-lista');
+    (0, _jquery2.default)('#cerrar-menu').addClass('no-visto-lista');
+    e.preventDefault();
+  }
+
+  function cerrarMenuOferta(e) {
+
+    //agregar
+    (0, _jquery2.default)('#ofertas').removeClass('menus-opciones');
+    (0, _jquery2.default)('#instituto-lista-oferta').removeClass('lista-opciones-instituto');
+    (0, _jquery2.default)('#cerrar-menu-oferta').removeClass('arriba-boton-x');
+    (0, _jquery2.default)('body').removeClass('no-mover');
+
+    //remover
+    (0, _jquery2.default)('#ofertas').addClass('no-visto');
+    (0, _jquery2.default)('#instituto-lista-oferta').addClass('no-visto-lista');
+    (0, _jquery2.default)('#cerrar-menu-oferta').addClass('no-visto-lista');
+    e.preventDefault();
+  }
+  function cerrarMenucentroServicio(e) {
+
+    //agregar
+    (0, _jquery2.default)('#centroServicio').removeClass('menus-opciones');
+    (0, _jquery2.default)('#instituto-lista-centro').removeClass('lista-opciones-instituto');
+    (0, _jquery2.default)('#cerrar-menu-centro').removeClass('arriba-boton-x');
+    (0, _jquery2.default)('body').removeClass('no-mover');
+
+    //remover
+    (0, _jquery2.default)('#centroServicio').addClass('no-visto');
+    (0, _jquery2.default)('#instituto-lista-centro').addClass('no-visto-lista');
+    (0, _jquery2.default)('#cerrar-menu-centro').addClass('no-visto-lista');
+    e.preventDefault();
+  }
+
+  (0, _jquery2.default)('#inst').on('click', instituto);
+  (0, _jquery2.default)('#oferta').on('click', oferta);
+  (0, _jquery2.default)('#centro').on('click', centroServicio);
+  (0, _jquery2.default)('#cerrar-menu').on('click', cerrarMenu);
+  (0, _jquery2.default)('#cerrar-menu-oferta').on('click', cerrarMenuOferta);
+  (0, _jquery2.default)('#cerrar-menu-centro').on('click', cerrarMenucentroServicio);
 };
 
 },{"jquery":3}],2:[function(require,module,exports){
