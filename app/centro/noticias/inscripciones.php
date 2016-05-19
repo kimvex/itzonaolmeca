@@ -181,17 +181,17 @@
     <a href="#" class="no-visto-lista icon-cross" id="cerrar-menu-centro"></a>
     <ul class="no-visto-lista" id="instituto-lista-centro">
       <li>
-        <a href="../siialumnos">
+        <a href="../../contactanos.php">
           SII ALUMNOS
         </a>
       </li>
       <li>
-        <a href="../siidocentes">          
+        <a href="../../contactanos.php">          
           SII DOCENTES
         </a>
       </li>
       <li>
-        <a href="../avisos">
+        <a href="../../contactanos.php">
           AVISOS
         </a>
       </li>
@@ -201,12 +201,12 @@
         </a>
       </li>      
       <li>
-        <a href="../formato">
+        <a href="../../contactanos.php">
           FORMATOS DIVERSOS
         </a>
       </li>      
       <li>
-        <a href="../tabulador">
+        <a href="../../contactanos.php">
           TABULADOR DE SERVICIOS
         </a>
       </li>      
