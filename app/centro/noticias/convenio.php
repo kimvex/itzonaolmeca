@@ -2,6 +2,10 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1" />
+  <meta name="description" content="El Instituto Tecnológico de la Zona Olmeca  ofrece servicios educativos de calidad que contribuyan en la formación integral de profesionistas competentes."/>
+  <meta name="keywords" content="ITZO,itzonaolmeca,instituto tecnologico de la zona olmeca, tecnologico, olmeca" />
+  <link rel="icon" href="../../../assets/img/4.png" type="image/x-icon" />
   <title>Instituto Tecnológico de la zona Olmeca</title>
   <link rel="stylesheet" href="../../../assets/css/normalize.css">
   <link rel="stylesheet" href="../../../assets/css/estilo.css">
@@ -63,7 +67,7 @@
   </header>
   <section class="cuerpo-noticias-informacion"> 
     <span class="ir-arriba"></span> 
-    <h3>Firma de Convenio de Colavoración</h3>
+    <h3>Firma de Convenio de Colaboración</h3>
     <embed src="../../../assets/pdf/PROGRAMA FIRMA DE CONVENIO.pdf" width="800px" height="500px" type="application/pdf">
     <figure class="jornada">
       <img class="img-jornada" src="../../../assets/img/conve1.jpg">
@@ -155,17 +159,17 @@
     <a href="#" class="no-visto-lista icon-cross" id="cerrar-menu-centro"></a>
     <ul class="no-visto-lista" id="instituto-lista-centro">
       <li>
-        <a href="../siialumnos">
+        <a href="../../contactanos.php">
           SII ALUMNOS
         </a>
       </li>
       <li>
-        <a href="../siidocentes">          
+        <a href="../../contactanos.php">          
           SII DOCENTES
         </a>
       </li>
       <li>
-        <a href="../avisos">
+        <a href="../../contactanos.php">
           AVISOS
         </a>
       </li>
@@ -175,12 +179,12 @@
         </a>
       </li>      
       <li>
-        <a href="../formato">
+        <a href="../../contactanos.php">
           FORMATOS DIVERSOS
         </a>
       </li>      
       <li>
-        <a href="../tabulador">
+        <a href="../../contactanos.php">
           TABULADOR DE SERVICIOS
         </a>
       </li>      

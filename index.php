@@ -1,7 +1,11 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1" />
+  <meta name="description" content="El Instituto Tecnológico de la Zona Olmeca  ofrece servicios educativos de calidad que contribuyan en la formación integral de profesionistas competentes."/>
+  <meta name="keywords" content="ITZO,itzonaolmeca,instituto tecnologico de la zona olmeca, tecnologico, olmeca" />
+  <link rel="icon" href="assets/img/4.png" type="image/x-icon" />
   <title>Instituto Tecnológico de la zona Olmeca</title>
   <link rel="stylesheet" href="assets/css/normalize.css">
   <link rel="stylesheet" href="assets/css/estilo.css">
@@ -64,43 +68,35 @@
     </nav>
   </header>
   <section class="cuerpo">
-  <div class="noticias-importantes">
-    <div class="p">
-      <h2>
-        Jornada Tenológica 2016
-      </h2>
-      <h6>
-        El 19, 20 y 21 de Mayo de 2016, se llevara acabo la Jornada Tecnológica 2016 en nuestro instituto, con participación de proyectos realizados por alumnos de todas nuestras carreras.  
-      </h6>
-    </div>    
-    <div class="p">
-      <h2>
-        INSCRIPCIÓN Y REINSCRIPCIÓN
-      </h2>
-      <h6>
-        Documento en el cual podras ver las fechas para la Inscripcion y de las reinscripciones.
-      </h6>
+    <div class="noticias-importantes">
+      <div class="p">
+        <h2>
+          Jornada Tenológica 2016
+        </h2>
+        <h6>
+          El 19, 20 y 21 de Mayo de 2016, se llevara acabo la Jornada Tecnológica 2016 en nuestro instituto, con participación de proyectos realizados por alumnos de todas nuestras carreras.  
+        </h6>
+      </div>    
+      <div class="p">
+        <h2>
+          INSCRIPCIÓN Y REINSCRIPCIÓN
+        </h2>
+        <h6>
+          Documento en el cual podras ver las fechas para la Inscripcion y de las reinscripciones.
+        </h6>
+      </div>
+      <div class="p">
+        <h2>
+          XXXVIII Runión Científica-Técnologica Forestal y Agropecuaria Tabasco 2016
+        </h2>
+        <h6>
+          V Simposio Internacional en Producción Agroalimentaria Tropical.
+        </h6>
+      </div>
     </div>
-    <div class="p">
-      <h2>
-        XXXVIII Runión Científica-Técnologica Forestal y Agropecuaria Tabasco 2016
-      </h2>
-      <h6>
-        V Simposio Internacional en Producción Agroalimentaria Tropical.
-      </h6>
-    </div>
-<!--     <div class="p">
-      <h2>
-        Inscripciones abiertas
-      </h2>
-      <h6>
-        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem sit, dolore adipisci repellendus itaque rem quisquam tempora mollitia quo similique porro. Eius, eum et cupiditate assumenda, quisquam minima fugit maxime.
-      </h6>
-    </div>
- -->  </div>
-  <span class="boton-galeria">
-    Conócenos
-  </span>
+    <a class="boton-galeria" herf="app/contactanos.php">
+      Conócenos
+    </a>
   </section>
   <div class="titulo-notas-t">
     <h4>NOTICIAS</h4>
@@ -266,17 +262,17 @@
     <a href="#" class="no-visto-lista icon-cross" id="cerrar-menu-centro"></a>
     <ul class="no-visto-lista" id="instituto-lista-centro">
       <li>
-        <a href="app/centro/siialumnos">
+        <a href="app/contactanos.php">
           SII ALUMNOS
         </a>
       </li>
       <li>
-        <a href="app/centro/siidocentes">          
+        <a href="app/contactanos.php">          
           SII DOCENTES
         </a>
       </li>
       <li>
-        <a href="app/centro/avisos">
+        <a href="app/contactanos.php">
           AVISOS
         </a>
       </li>
@@ -286,12 +282,12 @@
         </a>
       </li>      
       <li>
-        <a href="app/centro/formato">
+        <a href="app/contactanos.php">
           FORMATOS DIVERSOS
         </a>
       </li>      
       <li>
-        <a href="app/centro/tabulador">
+        <a href="app/contactanos.php">
           TABULADOR DE SERVICIOS
         </a>
       </li>      
