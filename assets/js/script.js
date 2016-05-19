@@ -2,6 +2,69 @@
 'use strict';
 
 Object.defineProperty(exports, "__esModule", {
+	value: true
+});
+
+var _jquery = require('jquery');
+
+var _jquery2 = _interopRequireDefault(_jquery);
+
+function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
+
+exports.default = function () {
+	(0, _jquery2.default)(document).ready(function () {
+		(0, _jquery2.default)('.ir-arriba').click(function () {
+			(0, _jquery2.default)('body, html').animate({
+				scrollTop: '0px'
+			}, 300);
+		});
+
+		(0, _jquery2.default)(window).scroll(function () {
+			if ((0, _jquery2.default)(this).scrollTop() > 0) {
+				(0, _jquery2.default)('.ir-arriba').slideDown(200);
+			} else {
+				(0, _jquery2.default)('.ir-arriba').slideUp(100);
+			}
+		});
+	});
+};
+
+},{"jquery":5}],2:[function(require,module,exports){
+'use strict';
+
+Object.defineProperty(exports, "__esModule", {
+	value: true
+});
+
+var _jquery = require('jquery');
+
+var _jquery2 = _interopRequireDefault(_jquery);
+
+function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
+
+exports.default = function () {
+	function contenido(e) {
+		_jquery2.default.get('calendario/' + e.target.id + '.php', function (data) {
+			document.getElementById('calendario').innerHTML = data;
+			var $dato = data;
+			console.log();
+		});
+		console.log(this);
+		console.log(e.target.id);
+	}
+
+	(0, _jquery2.default)(".li-meses").click(contenido);
+
+	_jquery2.default.get('calendario/enero.php', function (data) {
+		document.getElementById('calendario').innerHTML = data;
+		var $dato = data;
+	});
+};
+
+},{"jquery":5}],3:[function(require,module,exports){
+'use strict';
+
+Object.defineProperty(exports, "__esModule", {
   value: true
 });
 
@@ -110,7 +173,7 @@ exports.default = function () {
   (0, _jquery2.default)('#cerrar-menu-centro').on('click', cerrarMenucentroServicio);
 };
 
-},{"jquery":3}],2:[function(require,module,exports){
+},{"jquery":5}],4:[function(require,module,exports){
 'use strict';
 
 var _jquery = require('jquery');
@@ -121,13 +184,23 @@ var _menu = require('./menu/menu');
 
 var _menu2 = _interopRequireDefault(_menu);
 
+var _boton = require('./boton/boton');
+
+var _boton2 = _interopRequireDefault(_boton);
+
+var _calendario = require('./calendario/calendario');
+
+var _calendario2 = _interopRequireDefault(_calendario);
+
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
 (0, _jquery2.default)(document).ready(function () {
   (0, _menu2.default)();
+  (0, _calendario2.default)();
+  (0, _boton2.default)();
 });
 
-},{"./menu/menu":1,"jquery":3}],3:[function(require,module,exports){
+},{"./boton/boton":1,"./calendario/calendario":2,"./menu/menu":3,"jquery":5}],5:[function(require,module,exports){
 /*!
  * jQuery JavaScript Library v2.2.0
  * http://jquery.com/
@@ -9960,4 +10033,4 @@ if ( !noGlobal ) {
 return jQuery;
 }));
 
-},{}]},{},[2]);
+},{}]},{},[4]);
