@@ -9,9 +9,6 @@
   <title>Instituto Tecnológico de la zona Olmeca</title>
   <link rel="stylesheet" href="assets/css/normalize.css">
   <link rel="stylesheet" href="assets/css/estilo.css">
-  <script src="assets/js/script.js"></script>
-  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
-  <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/ResponsiveSlides.js/1.53/responsiveslides.min.js"></script>
 </head>
 <body>
   <header class="cabecera">
@@ -298,7 +295,23 @@
       </li>
     </ul>
   </div>
-  <script>
+  <script src="assets/js/script.js"></script>
+  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+  <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/ResponsiveSlides.js/1.53/responsiveslides.min.js"></script>
+  <script type="text/javascript">
+      WebFontConfig = {
+        google: { families: [ 'Source+Sans+Pro:400,300,700:latin' ] }
+      };
+      (function() {
+        var wf = document.createElement('script');
+        wf.src = 'https://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
+        wf.type = 'text/javascript';
+        wf.async = 'true';
+        var s = document.getElementsByTagName('script')[0];
+        s.parentNode.insertBefore(wf, s);
+      })(); 
+    </script>
+    <script>
     $(function() {
       $(".rslides").responsiveSlides({
         auto: true,             // Boolean: Animate automatically, true or false
