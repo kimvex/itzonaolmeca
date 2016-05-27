@@ -101,7 +101,7 @@
   <section class="noticia-inicio">
     <ul class="rslides">
       <a href="app/centro/noticias/jornada.php" id="img-slider-1"><li><img src="assets/img/Banner.png" alt=""></li></a>
-      <a href="app/centro/noticias/inscripciones.php" id="img-sider-2"><li><img src="assets/img/inscripciones.png" alt=""></li></a>
+      <a href="app/centro/noticias/galeria-jornada.php" id="img-sider-2"><li><img src="assets/img/galeria-evento/f-emprendedores/em-portada.png" alt=""></li></a>
       <a href="app/centro/noticias/reunion-cientifica.php" id="img-slider-3"><li><img src="assets/img/foresta-tec-slider.png" alt=""></li></a>
       <a href="app/centro/noticias/inscripciones.php" id="img-slider-4"><li><img src="assets/img/itzo-ins.png" alt=""></li></a>
 
@@ -139,6 +139,23 @@
           </a>
         </article>
       </li>      
+      </li>      
+      <li class="nota-lista-noticia">
+        <article class="articulo-noticia">
+          <figure class="imagen-articulo-nota">
+            <img src="assets/img/galeria-evento/f-emprendedores/em-6.png" alt="Imagen Articulo" id="imagen-noticia">
+          </figure>
+          <h3 id="titulo-noticia">
+            GALERIA DE LA JORNADA TECNOLÓGICA 2016
+          </h3>
+          <p class="nota-texto" id="descripcion-noticia">
+            Galeria de la Jornada Tecnológica 2016, relizada en el Instituto Tecnológico de la Zona Olmeca.
+          </p>
+          <a href="app/centro/noticias/galeria-jornada.php" class="leer-mas" id="leer-mas-noticia">
+            Ver más...
+          </a>
+        </article>
+      </li>      
       <li class="nota-lista-noticia">
         <article class="articulo-noticia">
           <figure class="imagen-articulo-nota">
@@ -154,23 +171,6 @@
             Leer más...
           </a>
         </article>
-      </li>      
-      <li class="nota-lista-noticia">
-        <article class="articulo-noticia">
-          <figure class="imagen-articulo-nota">
-            <img src="assets/img/conve1.jpg" alt="Imagen Articulo" id="imagen-noticia">
-          </figure>
-          <h3 id="titulo-noticia">
-            FIRMA DE CONVENIO
-          </h3>
-          <p class="nota-texto" id="descripcion-noticia">
-            Firma de convenio de colaboración entre la comisión nacional para el Desarrollo De Los Pueblos Indígenas (CDI TABASCO) y el Instituto Tecnológico De La Zona Olmeca (ITZO)...
-          </p>
-          <a href="app/centro/noticias/convenio.php" class="leer-mas" id="leer-mas-noticia">
-            Leer más...
-          </a>
-        </article>
-      </li>      
     </ul>
     <a class="ir-noticias-index" id="ir-noticias-index" href="app/centro/noticias.php">Todas las Noticias</a>
   </section>
