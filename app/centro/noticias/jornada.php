@@ -72,6 +72,7 @@
       <img src="../../../assets/img/Banner.png">
     </figure>
     <p>El Instituto Tecnológico de la Zona Olmeca les invita a participar en la Jornada Tecnológica 2016, que se realizara en nuestro instituto los dias 19, 20 y 21 de Mayo del presente año, se llevaran acabo conferencias y exposiciones de proyectos de nuestros alumnos de todas nuestras carreras, con el fin de impulsar el desarrollo tecnológico en todas las áreas.</p>
+    <a href="galeria-jornada.php" class="ir-galeria-jornada">Ir a la Galeria</a>
   </section>
   <footer class="pies">
     <ul class="pies-lista">
