@@ -48,6 +48,7 @@ body
         color letras
         //text-shadow .1em 0em .1em #000
         h1
+          
         h2
           font-weight 400
       .log-itzo-img
@@ -801,13 +802,14 @@ body
     flex-direction row
     justify-content space-around
     flex-wrap wrap
+    align-items space-around
     -webkit-flex-wrap wrap
     list-style none
-    padding .5em
+    padding .5em 0
     margin 0
     .nota-lista-noticia
       width 22%
-      margin .5em
+      margin .5em 0
       .articulo-noticia
         width 100%
         border .1em solid borde
@@ -963,3 +965,49 @@ body
   
   h2
     font-size 2.3rem
+.menu-movil
+  color #fff
+  font-size 2rem
+  display none
+    
+@media screen and (max-width:900px)
+  .noticia-inicio
+    .noticia-nota
+      max-width 100%
+      .nota-lista-noticia
+        width 31%
+        
+@media screen and (max-width:765px)
+  .cabecera
+    .logos-cabecera
+      .logos-lista
+        .name-school
+          h1
+            font-size 1.5rem
+          h2
+            font-size 1rem
+
+@media screen and (max-width:650px)
+  .noticia-inicio
+    .noticia-nota
+      max-width 100%
+      .nota-lista-noticia
+        width 45%
+
+@media screen and (max-width:575px)
+  .cabecera
+    .logos-cabecera
+      .logos-lista
+        .name-school
+          h1
+            font-size 1.2rem
+          h2
+            font-size .9rem
+@media screen and (max-width:510px)
+  .noticia-inicio
+    .noticia-nota
+      max-width 100%
+      .nota-lista-noticia
+        width 70%
+
+

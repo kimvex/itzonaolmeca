@@ -34,6 +34,7 @@
         </li>
       </ul>
     </nav>
+    <span class="icon-menu menu-movil"></span>
     <nav class="menu blanco" id="menu-cont">
       <ul class="opciones-menu">
         <li>
