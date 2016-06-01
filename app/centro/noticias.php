@@ -108,7 +108,7 @@
               <img src="../../assets/img/tec-forestal.png" alt="Imagen Articulo" id="imagen-noticia">
             </figure>
             <h3 class="titulo-noticia-noticia" id="titulo-noticia-noticia">
-              XXXVIII Runión Científica-Técnologica Forestal y Agropecuaria Tabasco 2016
+              XXXVIII Reunión Científica-Técnologica Forestal y Agropecuaria Tabasco 2016
             </h3>
             <p class="nota-texto-noticia" id="descripcion-noticia">
               V Simposio Internacional en Producción Agroalimentaria Tropical

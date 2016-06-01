@@ -5,11 +5,11 @@
   <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1" />
   <meta name="description" content="El Instituto Tecnológico de la Zona Olmeca  ofrece servicios educativos de calidad que contribuyan en la formación integral de profesionistas competentes."/>
   <meta name="keywords" content="ITZO,itzonaolmeca,instituto tecnologico de la zona olmeca, tecnologico, olmeca" />
-  <link rel="icon" href="../../../assets/img/4.png" type="image/x-icon" />
+  <link rel="icon" href="../assets/img/4.png" type="image/x-icon" />
   <title>Instituto Tecnológico de la zona Olmeca</title>
-  <link rel="stylesheet" href="../../../assets/css/normalize.css">
-  <link rel="stylesheet" href="../../../assets/css/estilo.css">
-  <script src="../../../assets/js/script.js"></script>
+  <link rel="stylesheet" href="../assets/css/normalize.css">
+  <link rel="stylesheet" href="../assets/css/estilo.css">
+  <script src="../assets/js/script.js"></script>
 </head>
 <body>
   <header class="cabecera">
@@ -17,7 +17,7 @@
       <ul class="logos-lista">
         <li class="log-sep-lista">
           <figure class="figura-logos-img">
-            <img src="../../../assets/img/logosep.jpg" alt="Logo sep">
+            <img src="../assets/img/logosep.jpg" alt="Logo sep">
           </figure>
         </li>
         <li class="name-school">
@@ -30,7 +30,7 @@
         </li>
         <li class="log-itzo-img">
           <figure class="figura-logos-img-itzo">
-            <img src="../../../assets/img/4.png" alt="Logo Itzo">
+            <img src="../assets/img/4.png" alt="Logo Itzo">
           </figure>
         </li>
       </ul>
@@ -58,32 +58,28 @@
           </a>
         </li>
         <li>
-          <a href="../../contactanos.php">
+          <a href="contactanos.php">
             CONTACTANOS
           </a>
         </li>
       </ul>
     </nav>
   </header>
-  <section class="cuerpo-noticias-informacion"> 
-    <span class="ir-arriba"></span> 
-    <h3>XXXVIII Reunión Científica-Técnologica Forestal y Agropecuaria Tabasco 2016</h3>
-    <figure class="jornada">
-      <img class="img-jornada" src="../../../assets/img/Reunion Cientifica Tabasco 2016 .png">
-    </figure>
-    <p>V Simposio Internacional en Producción Agroalimentaria Tropical, "La innovación tecnológica para la seguridad alimentaria".</p>
+  <section class="cuerpo-video">
+    <h3 class="titulo-video">TecNM - Video Institucional</h3>
+    <iframe src="https://www.youtube.com/embed/hdsdzWxSxko" frameborder="0" allowfullscreen></iframe>
   </section>
   <footer class="pies">
     <ul class="pies-lista">
       <li class="tamano">
         <ul class="redes-lista">
           <li class="item-redes-titulo">Siguenos en las redes sociales</li>
-          <li class="item-redes"><a href="#" class="icon-facebook">Facebook</a></li>
-          <li class="item-redes"><a href="#" class="icon-twitter">Twitter</a></li>
+          <li class="item-redes"><a href="#" class="icon-facebook" target="_blank">Facebook</a></li>
+          <li class="item-redes"><a href="#" class="icon-twitter" target="_blank">Twitter</a></li>
         </ul>
       </li>
       <li class="logo tamano">
-        <img src="../../../assets/img/4.png">
+        <img src="../assets/img/4.png">
         <p>Developed By Team <a href="http://www.kimvex.com" target="_blank">Kimvex</a></p>
       </li>      
       <li class="direccion tamano">
@@ -103,22 +99,22 @@
     <a href="#" class="no-visto-lista icon-cross" id="cerrar-menu"></a>
     <ul class="no-visto-lista" id="instituto-lista">
       <li>
-        <a href="../../instituto/mensaje.php">
+        <a href="instituto/mensaje.php">
           MENSAJE DEL DIRECTOR
         </a>
       </li>
       <li>
-        <a href="../../instituto/directorio.php">          
+        <a href="instituto/directorio.php">          
           DIRECTORIO TELEFONICO
         </a>
       </li>
       <li>
-        <a href="../../instituto/filosofia.php">
+        <a href="instituto/filosofia.php">
           FILOSOFIA 
         </a>
       </li>
       <li>
-        <a href="../../instituto/organigrama.php">
+        <a href="instituto/organigrama.php">
           ORGANIGRAMA
         </a>
       </li>
@@ -133,22 +129,22 @@
     <a href="#" class="no-visto-lista icon-cross" id="cerrar-menu-oferta"></a>
     <ul class="no-visto-lista" id="instituto-lista-oferta">
       <li>
-        <a href="../../oferta/sistemas.php">
+        <a href="oferta/sistemas.php">
           INGENIERIA EN SISTEMAS
         </a>
       </li>
       <li>
-        <a href="../../oferta/agronomia.php">          
+        <a href="oferta/agronomia.php">          
           INGENIERIA EN AGRONOMIA
         </a>
       </li>
       <li>
-        <a href="../../oferta/forestal.php">
+        <a href="oferta/forestal.php">
           INGENIERIA FORESTAL
         </a>
       </li>
       <li>
-        <a href="../../oferta/desarrollo.php">
+        <a href="oferta/desarrollo.php">
           INGENIERIA EN DESARROLLO COMUNITARIO
         </a>
       </li>
@@ -158,37 +154,37 @@
     <a href="#" class="no-visto-lista icon-cross" id="cerrar-menu-centro"></a>
     <ul class="no-visto-lista" id="instituto-lista-centro">
       <li>
-        <a href="../../contactanos.php">
+        <a href="contactanos.php">
           SII ALUMNOS
         </a>
       </li>
       <li>
-        <a href="../../contactanos.php">          
+        <a href="contactanos.php">          
           SII DOCENTES
         </a>
       </li>
       <li>
-        <a href="../../contactanos.php">
+        <a href="contactanos.php">
           AVISOS
         </a>
       </li>
       <li>
-        <a href="../calendario.php">
+        <a href="centro/calendario.php">
           CALENDARIO ESCOLAR
         </a>
       </li>      
       <li>
-        <a href="../../contactanos.php">
+        <a href="contactanos.php">
           FORMATOS DIVERSOS
         </a>
       </li>      
       <li>
-        <a href="../../contactanos.php">
+        <a href="contactanos.php">
           TABULADOR DE SERVICIOS
         </a>
       </li>      
       <li>
-        <a href="../noticias.php">
+        <a href="centro/noticias.php">
           NOTICIAS
         </a>
       </li>
