@@ -101,8 +101,8 @@
   </div>
   <section class="noticia-inicio">
     <ul class="rslides">
-      <a href="app/centro/noticias/jornada.php" id="img-slider-1"><li><img src="assets/img/Banner.png" alt=""></li></a>
-      <a href="app/video-institucional.php" id="img-sider-2"><li><img src="assets/img/video.png" alt=""></li></a>      
+      <a href="app/video-institucional.php" id="img-sider-1"><li><img src="assets/img/video.png" alt=""></li></a>      
+      <a href="app/centro/noticias/jornada.php" id="img-slider-2"><li><img src="assets/img/Banner.png" alt=""></li></a>
       <a href="app/centro/noticias/galeria-jornada.php" id="img-sider-3"><li><img src="assets/img/galeria-evento/f-emprendedores/em-portada.png" alt=""></li></a>
       <a href="app/centro/noticias/reunion-cientifica.php" id="img-slider-4"><li><img src="assets/img/foresta-tec-slider.png" alt=""></li></a>
       <a href="app/centro/noticias/inscripciones.php" id="img-slider-5"><li><img src="assets/img/itzo-ins.png" alt=""></li></a>
