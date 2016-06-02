@@ -34,6 +34,7 @@
         </li>
       </ul>
     </nav>
+    <span class="icon-menu menu-movil"></span>
     <nav class="menu blanco" id="menu-cont">
       <ul class="opciones-menu">
         <li>
@@ -84,7 +85,7 @@
       </div>
       <div class="p">
         <h2>
-          XXXVIII Runión Científica-Técnologica Forestal y Agropecuaria Tabasco 2016
+          XXXVIII Ruenión Científica-Técnologica Forestal y Agropecuaria Tabasco 2016
         </h2>
         <h6>
           V Simposio Internacional en Producción Agroalimentaria Tropical.
@@ -101,10 +102,10 @@
   <section class="noticia-inicio">
     <ul class="rslides">
       <a href="app/centro/noticias/jornada.php" id="img-slider-1"><li><img src="assets/img/Banner.png" alt=""></li></a>
-      <a href="app/centro/noticias/galeria-jornada.php" id="img-sider-2"><li><img src="assets/img/galeria-evento/f-emprendedores/em-portada.png" alt=""></li></a>
-      <a href="app/centro/noticias/reunion-cientifica.php" id="img-slider-3"><li><img src="assets/img/foresta-tec-slider.png" alt=""></li></a>
-      <a href="app/centro/noticias/inscripciones.php" id="img-slider-4"><li><img src="assets/img/itzo-ins.png" alt=""></li></a>
-
+      <a href="app/video-institucional.php" id="img-sider-2"><li><img src="assets/img/video.png" alt=""></li></a>      
+      <a href="app/centro/noticias/galeria-jornada.php" id="img-sider-3"><li><img src="assets/img/galeria-evento/f-emprendedores/em-portada.png" alt=""></li></a>
+      <a href="app/centro/noticias/reunion-cientifica.php" id="img-slider-4"><li><img src="assets/img/foresta-tec-slider.png" alt=""></li></a>
+      <a href="app/centro/noticias/inscripciones.php" id="img-slider-5"><li><img src="assets/img/itzo-ins.png" alt=""></li></a>
     </ul>
     <ul class="noticia-nota">
       <li class="nota-lista-noticia">
@@ -162,7 +163,7 @@
             <img src="assets/img/tec-forestal.png" alt="Imagen Articulo" id="imagen-noticia">
           </figure>
           <h3 id="titulo-noticia">
-            XXXVIII Runión Científica-Técnologica Forestal y Agropecuaria Tabasco 2016
+            XXXVIII Reunión Científica-Técnologica Forestal y Agropecuaria Tabasco 2016
           </h3>
           <p class="nota-texto" id="descripcion-noticia">
             V Simposio Internacional en Producción Agroalimentaria Tropical
