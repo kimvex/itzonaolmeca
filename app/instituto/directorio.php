@@ -6,7 +6,7 @@
   <meta name="description" content="El Instituto Tecnológico de la Zona Olmeca  ofrece servicios educativos de calidad que contribuyan en la formación integral de profesionistas competentes."/>
   <meta name="keywords" content="ITZO,itzonaolmeca,instituto tecnologico de la zona olmeca, tecnologico, olmeca" />
   <link rel="icon" href="../../assets/img/4.png" type="image/x-icon" />
-  <title>Instituto Tecnológico de la zona Olmeca</title>
+  <title>Instituto Tecnológico de la Zona Olmeca</title>
   <link rel="stylesheet" href="../../assets/css/normalize.css">
   <link rel="stylesheet" href="../../assets/css/estilo.css">
   <script src="../../assets/js/script.js"></script>
@@ -22,7 +22,7 @@
         </li>
         <li class="name-school">
           <h1>
-            TECNOLÓGICO NACIONAL DE MEXICO
+            TECNOLÓGICO NACIONAL DE MÉXICO
           </h1>
           <h2>
             INSTITUTO TECNOLÓGICO DE LA ZONA OLMECA
@@ -59,7 +59,7 @@
         </li>
         <li>
           <a href="../contactanos.php">
-            CONTACTANOS
+            CONTÁCTANOS
           </a>
         </li>
       </ul>
@@ -89,7 +89,7 @@
     <ul class="ul-directorio-t">
       <li class="li-directorio-titulo">Sub. Académica</li>
       <li class="li-directorio-titulo">105</li>
-      <li class="li-directorio-titulo">Ing. Carlos Mario Marin Valenzuela</li>
+      <li class="li-directorio-titulo">Ing. Carlos Mario Marín Valenzuela</li>
     </ul>    
     <ul class="ul-directorio-t">
       <li class="li-directorio-titulo">Sub. Administrativa</li>
@@ -97,7 +97,7 @@
       <li class="li-directorio-titulo">Lic. Mercedes Wade Alejo</li>
     </ul>    
     <ul class="ul-directorio-t">
-      <li class="li-directorio-titulo">Depto. De Ingenierias</li>
+      <li class="li-directorio-titulo">Depto. De Ingenierías</li>
       <li class="li-directorio-titulo">108</li>
       <li class="li-directorio-titulo">Ing. Ismael Valencia Hernández 
 
@@ -152,18 +152,18 @@
     <ul class="ul-directorio-t">
       <li class="li-directorio-titulo">Depto. De Gest. Tecn y Vinculación</li>
       <li class="li-directorio-titulo">121</li>
-      <li class="li-directorio-titulo">Ing. Hector Andrade Perado
+      <li class="li-directorio-titulo">Ing. Héctor Andrade Prado
       </li>
     </ul>    
     <ul class="ul-directorio-t">
-      <li class="li-directorio-titulo">Laboratorio de Parasitologia A.  
+      <li class="li-directorio-titulo">Laboratorio de Parasitología A.  
       </li>
       <li class="li-directorio-titulo">130</li>
-      <li class="li-directorio-titulo">Prfra. Elia Ines Hernández Magaña
+      <li class="li-directorio-titulo">Prfra. Elia Inés Hernández Magaña
       </li>
     </ul>    
     <ul class="ul-directorio-t">
-      <li class="li-directorio-titulo">Laboratorio de Biotecnologia 
+      <li class="li-directorio-titulo">Laboratorio de Biotecnología 
       </li>
       <li class="li-directorio-titulo">132</li>
       <li class="li-directorio-titulo">Dr. Emeterio Payro De la Cruz
@@ -194,11 +194,11 @@
       <li class="li-directorio-titulo">Recurso Materiales 
       </li>
       <li class="li-directorio-titulo">138</li>
-      <li class="li-directorio-titulo">C. Maria Eugenia Sosa De la Cruz
+      <li class="li-directorio-titulo">C. María Eugenia Sosa De la Cruz
       </li>
     </ul>    
     <ul class="ul-directorio-t">
-      <li class="li-directorio-titulo">Centro de Computo 
+      <li class="li-directorio-titulo">Centro de Cómputo 
       </li>
       <li class="li-directorio-titulo">139</li>
       <li class="li-directorio-titulo">Ing. Roberto González Evia
@@ -225,7 +225,7 @@
     <ul class="pies-lista">
       <li class="tamano">
         <ul class="redes-lista">
-          <li class="item-redes-titulo">Siguenos en las redes sociales</li>
+          <li class="item-redes-titulo">Síguenos en las redes sociales</li>
           <li class="item-redes"><a href="#" class="icon-facebook">Facebook</a></li>
           <li class="item-redes"><a href="#" class="icon-twitter">Twitter</a></li>
         </ul>
@@ -257,12 +257,12 @@
       </li>
       <li>
         <a href="directorio.php">          
-          DIRECTORIO TELEFONICO
+          DIRECTORIO TELEFÓNICO
         </a>
       </li>
       <li>
         <a href="filosofia.php">
-          FILOSOFIA 
+          FILOSOFÍA 
         </a>
       </li>
       <li>
@@ -282,22 +282,22 @@
     <ul class="no-visto-lista" id="instituto-lista-oferta">
       <li>
         <a href="../oferta/sistemas.php">
-          INGENIERIA EN SISTEMAS
+          INGENIERÍA EN SISTEMAS
         </a>
       </li>
       <li>
         <a href="../oferta/agronomia.php">          
-          INGENIERIA EN AGRONOMIA
+          INGENIERÍA EN AGRONOMÍA
         </a>
       </li>
       <li>
         <a href="../oferta/forestal.php">
-          INGENIERIA FORESTAL
+          INGENIERÍA FORESTAL
         </a>
       </li>
       <li>
         <a href="../oferta/desarrollo.php">
-          INGENIERIA EN DESARROLLO COMUNITARIO
+          INGENIERÍA EN DESARROLLO COMUNITARIO
         </a>
       </li>
     </ul>
