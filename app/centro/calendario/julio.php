@@ -13,13 +13,9 @@
 	</ul>
 	<ul class="ul-calendario">
 
-		<li class="li-calendario-n text-calendario">52</li>
+		<li class="li-calendario-n text-calendario">58</li>
 		<li class="li-calendario-a text-calendario">Receso de clases</li>
-		<li class="li-calendario-f text-calendario">04 al 29 de Julio</li>
-
-		<li class="li-calendario-n text-calendario">53</li>
-		<li class="li-calendario-a text-calendario">Reinicio de Actividades</li>
-		<li class="li-calendario-f text-calendario">01 de Agosto</li>
+		<li class="li-calendario-f text-calendario">03 - 28 de Julio</li>
 
 	</ul>      
 </body>

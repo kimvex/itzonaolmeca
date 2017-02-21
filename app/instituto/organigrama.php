@@ -6,7 +6,7 @@
   <meta name="description" content="El Instituto Tecnológico de la Zona Olmeca  ofrece servicios educativos de calidad que contribuyan en la formación integral de profesionistas competentes."/>
   <meta name="keywords" content="ITZO,itzonaolmeca,instituto tecnologico de la zona olmeca, tecnologico, olmeca" />
   <link rel="icon" href="../../assets/img/4.png" type="image/x-icon" />
-  <title>Instituto Tecnológico de la zona Olmeca</title>
+  <title>Instituto Tecnológico de la Zona Olmeca</title>
   <link rel="stylesheet" href="../../assets/css/normalize.css">
   <link rel="stylesheet" href="../../assets/css/estilo.css">
   <script src="../../assets/js/script.js"></script>
@@ -22,7 +22,7 @@
         </li>
         <li class="name-school">
           <h1>
-            TECNOLÓGICO NACIONAL DE MEXICO
+            TECNOLÓGICO NACIONAL DE MÉXICO
           </h1>
           <h2>
             INSTITUTO TECNOLÓGICO DE LA ZONA OLMECA
@@ -59,7 +59,7 @@
         </li>
         <li>
           <a href="../contactanos.php">
-            CONTACTANOS
+            CONTÁCTANOS
           </a>
         </li>
       </ul>
@@ -83,7 +83,7 @@
     <ul class="pies-lista">
       <li class="tamano">
         <ul class="redes-lista">
-          <li class="item-redes-titulo">Siguenos en las redes sociales</li>
+          <li class="item-redes-titulo">Síguenos en las redes sociales</li>
           <li class="item-redes"><a href="#" class="icon-facebook">Facebook</a></li>
           <li class="item-redes"><a href="#" class="icon-twitter">Twitter</a></li>
         </ul>
@@ -115,12 +115,12 @@
       </li>
       <li>
         <a href="directorio.php">          
-          DIRECTORIO TELEFONICO
+          DIRECTORIO TELEFÓNICO
         </a>
       </li>
       <li>
         <a href="filosofia.php">
-          FILOSOFIA 
+          FILOSOFÍA 
         </a>
       </li>
       <li>
@@ -140,22 +140,22 @@
     <ul class="no-visto-lista" id="instituto-lista-oferta">
       <li>
         <a href="../oferta/sistemas.php">
-          INGENIERIA EN SISTEMAS
+          INGENIERÍA EN SISTEMAS
         </a>
       </li>
       <li>
         <a href="../oferta/agronomia.php">          
-          INGENIERIA EN AGRONOMIA
+          INGENIERÍA EN AGRONOMÍA
         </a>
       </li>
       <li>
         <a href="../oferta/forestal.php">
-          INGENIERIA FORESTAL
+          INGENIERÍA FORESTAL
         </a>
       </li>
       <li>
         <a href="../oferta/desarrollo.php">
-          INGENIERIA EN DESARROLLO COMUNITARIO
+          INGENIERÍA EN DESARROLLO COMUNITARIO
         </a>
       </li>
     </ul>
@@ -164,17 +164,17 @@
     <a href="#" class="no-visto-lista icon-cross" id="cerrar-menu-centro"></a>
     <ul class="no-visto-lista" id="instituto-lista-centro">
       <li>
-        <a href="../contactanos.php">
+        <a href="../desarrollo.php">
           SII ALUMNOS
         </a>
       </li>
       <li>
-        <a href="../contactanos.php">          
+        <a href="../desarrollo.php">          
           SII DOCENTES
         </a>
       </li>
       <li>
-        <a href="../contactanos.php">
+        <a href="../desarrollo.php">
           AVISOS
         </a>
       </li>
@@ -184,12 +184,12 @@
         </a>
       </li>      
       <li>
-        <a href="../contactanos.php">
+        <a href="../desarrollo.php">
           FORMATOS DIVERSOS
         </a>
       </li>      
       <li>
-        <a href="../contactanos.php">
+        <a href="../desarrollo.php">
           TABULADOR DE SERVICIOS
         </a>
       </li>      

@@ -6,7 +6,7 @@
   <meta name="description" content="El Instituto Tecnológico de la Zona Olmeca  ofrece servicios educativos de calidad que contribuyan en la formación integral de profesionistas competentes."/>
   <meta name="keywords" content="ITZO,itzonaolmeca,instituto tecnologico de la zona olmeca, tecnologico, olmeca" />
   <link rel="icon" href="assets/img/4.png" type="image/x-icon" />
-  <title>Instituto Tecnológico de la zona Olmeca</title>
+  <title>Instituto Tecnológico de la Zona Olmeca</title>
   <link rel="stylesheet" href="assets/css/normalize.css">
   <link rel="stylesheet" href="assets/css/estilo.css">
 </head>
@@ -21,7 +21,7 @@
         </li>
         <li class="name-school">
           <h1>
-            TECNOLÓGICO NACIONAL DE MEXICO
+            TECNOLÓGICO NACIONAL DE MÉXICO
           </h1>
           <h2>
             INSTITUTO TECNOLÓGICO DE LA ZONA OLMECA
@@ -59,7 +59,7 @@
         </li>
         <li>
           <a href="app/contactanos.php">
-            CONTACTANOS
+            CONTÁCTANOS
           </a>
         </li>
       </ul>
@@ -69,26 +69,26 @@
     <div class="noticias-importantes">
       <div class="p">
         <h2>
-          Jornada Tenológica 2016
+          Ejemplo
         </h2>
         <h6>
-          El 19, 20 y 21 de Mayo de 2016, se llevara acabo la Jornada Tecnológica 2016 en nuestro instituto, con participación de proyectos realizados por alumnos de todas nuestras carreras.  
+          Nota ejemplo 
         </h6>
       </div>    
       <div class="p">
         <h2>
-          INSCRIPCIÓN Y REINSCRIPCIÓN
+          Ejemplo 2
         </h2>
         <h6>
-          Documento en el cual podras ver las fechas para la Inscripcion y de las reinscripciones.
+          Nota ejemplo
         </h6>
       </div>
       <div class="p">
         <h2>
-          XXXVIII Ruenión Científica-Técnologica Forestal y Agropecuaria Tabasco 2016
+          Ejemplo 3
         </h2>
         <h6>
-          V Simposio Internacional en Producción Agroalimentaria Tropical.
+          Nota ejemplo
         </h6>
       </div>
     </div>
@@ -102,24 +102,24 @@
   <section class="noticia-inicio">
     <ul class="rslides">
       <a href="app/video-institucional.php" id="img-sider-1"><li><img src="assets/img/video.png" alt=""></li></a>      
-      <a href="app/centro/noticias/jornada.php" id="img-slider-2"><li><img src="assets/img/Banner.png" alt=""></li></a>
-      <a href="app/centro/noticias/galeria-jornada.php" id="img-sider-3"><li><img src="assets/img/galeria-evento/f-emprendedores/em-portada.png" alt=""></li></a>
-      <a href="app/centro/noticias/reunion-cientifica.php" id="img-slider-4"><li><img src="assets/img/foresta-tec-slider.png" alt=""></li></a>
-      <a href="app/centro/noticias/inscripciones.php" id="img-slider-5"><li><img src="assets/img/itzo-ins.png" alt=""></li></a>
+      <a href="app/video-institucional.php"" id="img-slider-2"><li><img src="assets/img/video.png" alt=""></li></a>
+      <a href="#" id="img-sider-3"><li><img src="assets/img/itzo-ins.png" alt=""></li></a>
+      <a href="app/video-institucional.php"" id="img-slider-4"><li><img src="assets/img/video.png" alt=""></li></a>
+      <a href="#" id="img-slider-5"><li><img src="assets/img/itzo-ins.png" alt=""></li></a>
     </ul>
     <ul class="noticia-nota">
       <li class="nota-lista-noticia">
         <article class="articulo-noticia">
           <figure class="imagen-articulo-nota">
-            <img src="assets/img/itzo-ins.png" alt="Imagen Articulo" id="imagen-noticia">
+            <img src="assets/img/segundo.png" alt="Imagen Articulo" id="imagen-noticia">
           </figure>
           <h3 id="titulo-noticia">
-            INSCRIPCIÓN Y REINSCRIPCIÓN
+            Reservado para noticias
           </h3>
           <p class="nota-texto" id="descripcion-noticia">
-            Documento en el cual podras ver las fechas para la Inscripcion y de las reinscripciones.
+            Nota ejemplo 
           </p>
-          <a href="app/centro/noticias/inscripciones.php" class="leer-mas" id="leer-mas-noticia">
+          <a href="app/centro/noticias.php" class="leer-mas" id="leer-mas-noticia">
             Leer más...
           </a>
         </article>
@@ -127,15 +127,15 @@
       <li class="nota-lista-noticia">
         <article class="articulo-noticia">
           <figure class="imagen-articulo-nota">
-            <img src="assets/img/Banner.png" alt="Imagen Articulo" id="imagen-noticia">
+            <img src="assets/img/segundo.png" alt="Imagen Articulo" id="imagen-noticia">
           </figure>
           <h3 id="titulo-noticia">
-            Jornada Tenológica 2016
+            Reservado para noticias
           </h3>
           <p class="nota-texto" id="descripcion-noticia">
-            El 19, 20 y 21 de Mayo de 2016, se llevara acabo la Jornada Tecnológica 2016 en nuestro instituto, con participación de proyectos realizados por alumnos de todas nuestras carreras.  
+            Nota ejemplo  
           </p>
-          <a href="app/centro/noticias/jornada.php" class="leer-mas" id="leer-mas-noticia">
+          <a href="app/centro/noticias.php" class="leer-mas" id="leer-mas-noticia">
             Leer más...
           </a>
         </article>
@@ -144,15 +144,15 @@
       <li class="nota-lista-noticia">
         <article class="articulo-noticia">
           <figure class="imagen-articulo-nota">
-            <img src="assets/img/galeria-evento/f-emprendedores/em-6.png" alt="Imagen Articulo" id="imagen-noticia">
+            <img src="assets/img/segundo.png" alt="Imagen Articulo" id="imagen-noticia">
           </figure>
           <h3 id="titulo-noticia">
-            GALERIA DE LA JORNADA TECNOLÓGICA 2016
+            Reservado para noticias
           </h3>
           <p class="nota-texto" id="descripcion-noticia">
-            Galeria de la Jornada Tecnológica 2016, relizada en el Instituto Tecnológico de la Zona Olmeca.
+            Nota ejemplo
           </p>
-          <a href="app/centro/noticias/galeria-jornada.php" class="leer-mas" id="leer-mas-noticia">
+          <a href="app/centro/noticias.php" class="leer-mas" id="leer-mas-noticia">
             Ver más...
           </a>
         </article>
@@ -160,15 +160,15 @@
       <li class="nota-lista-noticia">
         <article class="articulo-noticia">
           <figure class="imagen-articulo-nota">
-            <img src="assets/img/tec-forestal.png" alt="Imagen Articulo" id="imagen-noticia">
+            <img src="assets/img/segundo.png" alt="Imagen Articulo" id="imagen-noticia">
           </figure>
           <h3 id="titulo-noticia">
-            XXXVIII Reunión Científica-Técnologica Forestal y Agropecuaria Tabasco 2016
+            Reservado para noticias
           </h3>
           <p class="nota-texto" id="descripcion-noticia">
-            V Simposio Internacional en Producción Agroalimentaria Tropical
+            Nota ejemplo
           </p>
-          <a href="app/centro/noticias/reunion-cientifica.php" class="leer-mas" id="leer-mas-noticia">
+          <a href="app/centro/noticias.php" class="leer-mas" id="leer-mas-noticia">
             Leer más...
           </a>
         </article>
@@ -179,7 +179,7 @@
     <ul class="pies-lista">
       <li class="tamano">
         <ul class="redes-lista">
-          <li class="item-redes-titulo">Siguenos en las redes sociales</li>
+          <li class="item-redes-titulo">Síguenos en las redes sociales</li>
           <li class="item-redes"><a href="#" class="icon-facebook" target="_blank">Facebook</a></li>
           <li class="item-redes"><a href="#" class="icon-twitter" target="_blank">Twitter</a></li>
         </ul>
@@ -211,16 +211,16 @@
       </li>
       <li>
         <a href="app/instituto/directorio.php">          
-          DIRECTORIO TELEFONICO
+          DIRECTORIO TELEFÓNICO
         </a>
       </li>
       <li>
         <a href="app/instituto/filosofia.php">
-          FILOSOFIA 
+          FILOSOFÍA 
         </a>
       </li>
       <li>
-        <a href="app/instituto/organigrama.php">
+        <a href="app/contactanos.php"">
           ORGANIGRAMA
         </a>
       </li>
@@ -236,22 +236,22 @@
     <ul class="no-visto-lista" id="instituto-lista-oferta">
       <li>
         <a href="app/oferta/sistemas.php">
-          INGENIERIA EN SISTEMAS
+          INGENIERÍA EN SISTEMAS
         </a>
       </li>
       <li>
         <a href="app/oferta/agronomia.php">          
-          INGENIERIA EN AGRONOMIA
+          INGENIERÍA EN AGRONOMÍA
         </a>
       </li>
       <li>
         <a href="app/oferta/forestal.php">
-          INGENIERIA FORESTAL
+          INGENIERÍA FORESTAL
         </a>
       </li>
       <li>
         <a href="app/oferta/desarrollo.php">
-          INGENIERIA EN DESARROLLO COMUNITARIO
+          INGENIERÍA EN DESARROLLO COMUNITARIO
         </a>
       </li>
     </ul>
@@ -260,17 +260,17 @@
     <a href="#" class="no-visto-lista icon-cross" id="cerrar-menu-centro"></a>
     <ul class="no-visto-lista" id="instituto-lista-centro">
       <li>
-        <a href="app/contactanos.php">
+        <a href="app/desarrollo.php">
           SII ALUMNOS
         </a>
       </li>
       <li>
-        <a href="app/contactanos.php">          
+        <a href="app/desarrollo.php">          
           SII DOCENTES
         </a>
       </li>
       <li>
-        <a href="app/contactanos.php">
+        <a href="app/desarrollo.php">
           AVISOS
         </a>
       </li>
@@ -280,12 +280,12 @@
         </a>
       </li>      
       <li>
-        <a href="app/contactanos.php">
+        <a href="app/desarrollo.php">
           FORMATOS DIVERSOS
         </a>
       </li>      
       <li>
-        <a href="app/contactanos.php">
+        <a href="app/desarrollo.php">
           TABULADOR DE SERVICIOS
         </a>
       </li>      

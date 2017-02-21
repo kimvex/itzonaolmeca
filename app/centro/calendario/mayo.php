@@ -15,27 +15,31 @@
 
 		<li class="li-calendario-n text-calendario">36</li>
 		<li class="li-calendario-a text-calendario">Dia no laborable</li>
-		<li class="li-calendario-f text-calendario">05 de Mayo</li>
+		<li class="li-calendario-f text-calendario">1, 5 y 15 de Mayo</li>
 
 		<li class="li-calendario-n text-calendario">37</li>
-		<li class="li-calendario-a text-calendario">Solicitud de convalidación de estudios</li>
-		<li class="li-calendario-f text-calendario">02 al 13 de Mayo</li>
+		<li class="li-calendario-a text-calendario">Convocatoria del ENCB etapa local</li>
+		<li class="li-calendario-f text-calendario">02 al 12 de Mayo</li>
 
 		<li class="li-calendario-n text-calendario">38</li>
+		<li class="li-calendario-a text-calendario">Solicitud de convalidación de estudios</li>
+		<li class="li-calendario-f text-calendario">02 al 12 de Mayo</li>
+
+		<li class="li-calendario-n text-calendario">39</li>
 		<li class="li-calendario-a text-calendario">Evaluación docente</li>
 		<li class="li-calendario-f text-calendario">16 al 31 de Mayo</li>
 
-		<li class="li-calendario-n text-calendario">39</li>
-		<li class="li-calendario-a text-calendario">Cursos de inducción de recidencias profesionales</li>
+		<li class="li-calendario-n text-calendario">40</li>
+		<li class="li-calendario-a text-calendario">Curso de inducción de residencias profesionales</li>
 		<li class="li-calendario-f text-calendario">19 de Mayo</li>
 
-		<li class="li-calendario-n text-calendario">40</li>
-		<li class="li-calendario-a text-calendario">Evento nacional de innovación tecnológica etapa local</li>
-		<li class="li-calendario-f text-calendario">25 al 26 de Mayo</li>
-
 		<li class="li-calendario-n text-calendario">41</li>
-		<li class="li-calendario-a text-calendario">Fin de cursos</li>
-		<li class="li-calendario-f text-calendario">30 al 31 de Mayo</li>
+		<li class="li-calendario-a text-calendario">Evento Nacional de Innovación Tecnológica etapa local</li>
+		<li class="li-calendario-f text-calendario">25 y 26 de Mayo</li>
+
+		<li class="li-calendario-n text-calendario">42</li>
+		<li class="li-calendario-a text-calendario">Auditorias a los sistemas de gestión (calidad, ambiental y MEG)</li>
+		<li class="li-calendario-f text-calendario">24 al 26 de Mayo</li>
 
 	</ul>      
 </body>

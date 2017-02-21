@@ -11,7 +11,7 @@
   <link rel="stylesheet" href="../../assets/css/estilo.css">
   <script src="../../assets/js/script.js"></script>
 </head>
-<body class="mensaje">
+<body>
   <header class="cabecera">
     <nav class="logos-cabecera">
       <ul class="logos-lista">
@@ -65,27 +65,77 @@
       </ul>
     </nav>
   </header>
-  <section class="cuerpo-mensaje">
-    <span class="ir-arriba icon-arrow-up"></span>  
-    <article class="mensaje-director">
-      <h3>Mensaje del Director</h3>
-      <img src="../../assets/img/javier.png">
-      <p class="mensaje">
-        Hoy, después de más de seis décadas, el Tecnológico Nacional de México cuenta con 266 Instituciones comprometidas con la formación de Ingenieros, siendo el Sistema más grande de América Latina con esta misión.
-        Una de esas Instituciones es el Instituto Tecnológico de la Zona Olmeca, que como parte de esa gran familia, asume la encomienda de formar profesionistas de excelencia, responsables y calificados, capaces de aportar soluciones pertinentes a la sociedad, pues entendemos que es lo sustantivo de nuestro quehacer académico.
-
-        El contexto global y por ende el regional de la Educación Superior en América Latina,       muestra las siguientes características: heterogeneidad y diversidad, surgimiento de       macrouniversidades y de instituciones de formación técnica, expansión del sistema       privado, incremento de la investigación científica, impacto de las nuevas tecnologías de      información y comunicación, mercantilización de la Educación, desarrollo de nuevas      carreras y áreas de conocimiento de base interdisciplinaria, y creciente importancia de     la internacionalización , entre otras.
-
-        Ante esta situación y conscientes de nuestra responsabilidad social, participamos significativamente en la economía aportando profesionistas al mercado laborar para desarrollar la planta productiva nacional, y que den respuesta a los nuevos retos que enfrentamos, compromiso que hacemos patente en nuestro Programa Institucional de Innovación y Desarrollo 2013-2018, alineado al Programa Institucional de Innovación y Desarrollo 2013-2018 del Tecnológico Nacional de México, así como al Plan Nacional de Desarrollo 2013-2018 y al Programa Sectorial de Educación 2013-2018, en el que buscamos trabajar por mejores resultados.
-
-        El trabajo realizado por quienes nos antecedieron es loable, pero aún queda mucho por hacer, mucho qué aportar y estamos comprometidos en ello, tenemos la capacidad pero sobre todo la disposición necesarias para lograr lo que nos hemos propuesto, y sabremos, como hasta ahora, dar buenas cuentas a la sociedad que ha confiado y sigue confiando en nosotros.
-      </p>
-      <p class="att">
-        M.C. JOSÉ JAVIER PERALTA COSGAYA
-        
-        Director
-      </p>
-    </article>
+  <section class="cuerpo-noticias">  
+    <span class="ir-arriba"></span>
+    <h3>Noticias</h3>
+    <div class="div-noticias">
+      <ul class="ul-noticia">
+        <li class="li-noticia">
+          <article class="articulo-noticia-noticia">
+            <figure class="imagen-articulo-noticia">
+              <img src="../../assets/img/itzo-ins.png" alt="Imagen Articulo" id="imagen-noticia">
+            </figure>
+            <h3 class="titulo-noticia-noticia" id="titulo-noticia-noticia">
+              INSCRIPCIÓN Y REINSCRIPCIÓN
+            </h3>
+            <p class="nota-texto-noticia" id="descripcion-noticia">
+              Documento en el cual podras ver las fechas para la Inscripcion y de las reinscripciones.
+            </p>
+            <a href="noticias/inscripciones.php" class="ver-mas-noticia" id="leer-mas-noticia">
+              Ver...
+            </a>
+          </article>
+        </li>       
+        <li class="li-noticia">
+          <article class="articulo-noticia-noticia">
+            <figure class="imagen-articulo-noticia">
+              <img src="../../assets/img/Banner.png" alt="Imagen Articulo" id="imagen-noticia">
+            </figure>
+            <h3 class="titulo-noticia-noticia" id="titulo-noticia-noticia">
+              Jornada Tenológica 2016
+            </h3>
+            <p class="nota-texto-noticia" id="descripcion-noticia">
+              El 19, 20 y 21 de Mayo de 2016, se llevara acabo la Jornada Tecnológica 2016 en nuestro instituto, con participación de proyectos realizados por alumnos de todas nuestras carreras.  
+            </p>
+            <a href="noticias/jornada.php" class="ver-mas-noticia" id="leer-mas-noticia">
+              Ver...
+            </a>
+          </article>
+        </li>      
+        <li class="li-noticia">
+          <article class="articulo-noticia-noticia">
+            <figure class="imagen-articulo-noticia">
+              <img src="../../assets/img/tec-forestal.png" alt="Imagen Articulo" id="imagen-noticia">
+            </figure>
+            <h3 class="titulo-noticia-noticia" id="titulo-noticia-noticia">
+              XXXVIII Reunión Científica-Técnologica Forestal y Agropecuaria Tabasco 2016
+            </h3>
+            <p class="nota-texto-noticia" id="descripcion-noticia">
+              V Simposio Internacional en Producción Agroalimentaria Tropical
+            </p>
+            <a href="noticias/reunion-cientifica.php" class="ver-mas-noticia" id="leer-mas-noticia">
+              Ver...
+            </a>
+          </article>
+        </li>      
+        <li class="li-noticia">
+          <article class="articulo-noticia-noticia">
+            <figure class="imagen-articulo-noticia">
+              <img src="../../assets/img/conve1.jpg" alt="Imagen Articulo" id="imagen-noticia">
+            </figure>
+            <h3 class="titulo-noticia-noticia" id="titulo-noticia-noticia">
+              FIRMA DE CONVENIO
+            </h3>
+            <p class="nota-texto-noticia" id="descripcion-noticia">
+              Firma de convenio de colaboración entre la comisión nacional para el Desarrollo De Los Pueblos Indígenas (CDI TABASCO) y el Instituto Tecnológico De La Zona Olmeca (ITZO)...
+            </p>
+            <a href="noticias/convenio.php" class="ver-mas-noticia" id="leer-mas-noticia">
+              Ver...
+            </a>
+          </article>
+        </li>             
+      </ul>
+    </div>
   </section>
   <footer class="pies">
     <ul class="pies-lista">
@@ -117,17 +167,17 @@
     <a href="#" class="no-visto-lista icon-cross" id="cerrar-menu"></a>
     <ul class="no-visto-lista" id="instituto-lista">
       <li>
-        <a href="mensaje.php">
+        <a href="../instituto/mensaje.php">
           MENSAJE DEL DIRECTOR
         </a>
       </li>
       <li>
-        <a href="directorio.php">          
+        <a href="../instituto/directorio.php">          
           DIRECTORIO TELEFÓNICO
         </a>
       </li>
       <li>
-        <a href="filosofia.php">
+        <a href="../instituto/filosofia.php">
           FILOSOFÍA 
         </a>
       </li>
@@ -172,37 +222,37 @@
     <a href="#" class="no-visto-lista icon-cross" id="cerrar-menu-centro"></a>
     <ul class="no-visto-lista" id="instituto-lista-centro">
       <li>
-        <a href="../desarrollo.php">
+        <a href="../contactanos.php">
           SII ALUMNOS
         </a>
       </li>
       <li>
-        <a href="../desarrollo.php">          
+        <a href="../contactanos.php">          
           SII DOCENTES
         </a>
       </li>
       <li>
-        <a href="../desarrollo.php">
+        <a href="../contactanos.php">
           AVISOS
         </a>
       </li>
       <li>
-        <a href="../centro/calendario.php">
+        <a href="calendario.php">
           CALENDARIO ESCOLAR
         </a>
       </li>      
       <li>
-        <a href="../desarrollo.php">
+        <a href="../contactanos.php">
           FORMATOS DIVERSOS
         </a>
       </li>      
       <li>
-        <a href="../desarrollo.php">
+        <a href="../contactanos.php">
           TABULADOR DE SERVICIOS
         </a>
       </li>      
       <li>
-        <a href="../centro/noticias.php">
+        <a href="noticias.php">
           NOTICIAS
         </a>
       </li>
