@@ -175,7 +175,7 @@
         </a>
       </li>
       <li>
-        <a href="../instituto/organigrama.php">
+        <a href="../contactanos.php">
           ORGANIGRAMA
         </a>
       </li>
@@ -215,17 +215,17 @@
     <a href="#" class="no-visto-lista icon-cross" id="cerrar-menu-centro"></a>
     <ul class="no-visto-lista" id="instituto-lista-centro">
       <li>
-        <a href="../contactanos.php">
+        <a href="../desarrollo.php">
           SII ALUMNOS
         </a>
       </li>
       <li>
-        <a href="../contactanos.php">          
+        <a href="../desarrollo.php">          
           SII DOCENTES
         </a>
       </li>
       <li>
-        <a href="../contactanos.php">
+        <a href="../desarrollo.php">
           AVISOS
         </a>
       </li>
@@ -235,12 +235,12 @@
         </a>
       </li>      
       <li>
-        <a href="../contactanos.php">
+        <a href="../desarrollo.php">
           FORMATOS DIVERSOS
         </a>
       </li>      
       <li>
-        <a href="../contactanos.php">
+        <a href="../desarrollo.php">
           TABULADOR DE SERVICIOS
         </a>
       </li>      

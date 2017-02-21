@@ -65,9 +65,8 @@
       </ul>
     </nav>
   </header>
-  <section class="cuerpo-video">
-    <h3 class="titulo-video">TecNM - Video Institucional</h3>
-    <iframe src="https://www.youtube.com/embed/hdsdzWxSxko" frameborder="0" allowfullscreen></iframe>
+  <section class="cuerpo-contactanos">
+    <h2>Estamos en desarrollo, regresa después.</h2> 
   </section>
   <footer class="pies">
     <ul class="pies-lista">

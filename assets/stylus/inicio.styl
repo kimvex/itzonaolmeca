@@ -153,6 +153,7 @@ body
   background-image url('../img/contactanos.jpg')
   background-size cover
   display flex
+  flex-direction column
   justify-content center
   align-items center
   h2
@@ -162,7 +163,50 @@ body
     font-size 4rem
     margin 0
     padding 1.2rem
-    background rgba(0, 0, 0, .4)
+    //background rgba(0, 0, 0, .4)
+  .formulario
+    display flex
+    justify-content center
+    flex-direction column
+    align-items center
+    width 100%
+    height 100%
+    .superior
+      width 90%
+      height 80%
+      display flex
+      justify-content space-around
+      align-items center
+      .form-izquierdo
+        width 45%
+        height 60%
+        display flex
+        flex-direction column
+        justify-content space-between
+        input
+          width 96%
+          padding 1rem .3rem
+          outline none
+          border-radius 3px
+          border none
+      .form-derecho
+        width 45%
+        height 60%
+        display flex
+        justify-content center
+        align-items center
+        .mensaje
+          width 100%
+          height 100%
+          outline none
+          border-radius 3px
+          border none
+    .boton      
+      input
+        padding 1rem 2rem
+        border none
+        background-color white
+        
 .cuerpo-video
   width 100%
   background-color #fff
@@ -241,9 +285,10 @@ body
   .ul-directorio
     width 70%
     display flex
+    justify-content space-around
     padding 0
     .li-directorio-titulo
-      width 33.3%
+      width 49.9%
       color titulos
       list-style none
       font-size 1.2rem
@@ -255,7 +300,7 @@ body
     display flex
     padding 0
     .li-directorio-titulo
-      width 33.3%
+      width 49.9%
       color titulos
       list-style none
       font-size 1rem
@@ -359,16 +404,16 @@ body
       background rgba(255, 255, 255, .6)
       padding 0rem 1rem
   .carrera-title-a
-    background url('../img/agronomia.jpg') no-repeat
+    background url('../img/agronomia.png') no-repeat
     background-size cover
   .carrera-title-d
     background url('../img/desarrollo.png') no-repeat
     background-size cover
   .carrera-title-f
-    background url('../img/forestal-1.jpg') no-repeat
+    background url('../img/forestal.png') no-repeat
     background-size cover
   .carrera-title-s
-    background url('../img/sistemas-2.jpg') no-repeat
+    background url('../img/sistemas-a.png') no-repeat
     background-size cover
   .carrera-def
     width 100%
@@ -965,12 +1010,12 @@ body
   font-weight 700
   position absolute
   width 50%
-  top 1%
+  bottom 30%
   left .5%
   text-align center
   text-shadow 0em 0em .1em #000
   border-radius 8px
-  background rgba(0, 0, 0, .55)
+  //background rgba(0, 0, 0, .55)
 
   &:nth-child(2)
     animation-delay 10s 

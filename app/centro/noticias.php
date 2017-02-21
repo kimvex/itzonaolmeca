@@ -73,15 +73,15 @@
         <li class="li-noticia">
           <article class="articulo-noticia-noticia">
             <figure class="imagen-articulo-noticia">
-              <img src="../../assets/img/itzo-ins.png" alt="Imagen Articulo" id="imagen-noticia">
+              <img src="../../assets/img/segundo.png" alt="Imagen Articulo" id="imagen-noticia">
             </figure>
             <h3 class="titulo-noticia-noticia" id="titulo-noticia-noticia">
-              INSCRIPCIÓN Y REINSCRIPCIÓN
+              Ejemplo Noticia
             </h3>
             <p class="nota-texto-noticia" id="descripcion-noticia">
-              Documento en el cual podras ver las fechas para la Inscripcion y de las reinscripciones.
+              Ejemplo nota
             </p>
-            <a href="noticias/inscripciones.php" class="ver-mas-noticia" id="leer-mas-noticia">
+            <a href="#" class="ver-mas-noticia" id="leer-mas-noticia">
               Ver...
             </a>
           </article>
@@ -89,15 +89,15 @@
         <li class="li-noticia">
           <article class="articulo-noticia-noticia">
             <figure class="imagen-articulo-noticia">
-              <img src="../../assets/img/Banner.png" alt="Imagen Articulo" id="imagen-noticia">
+              <img src="../../assets/img/segundo.png" alt="Imagen Articulo" id="imagen-noticia">
             </figure>
             <h3 class="titulo-noticia-noticia" id="titulo-noticia-noticia">
-              Jornada Tenológica 2016
+              Ejemplo Noticia
             </h3>
             <p class="nota-texto-noticia" id="descripcion-noticia">
-              El 19, 20 y 21 de Mayo de 2016, se llevara acabo la Jornada Tecnológica 2016 en nuestro instituto, con participación de proyectos realizados por alumnos de todas nuestras carreras.  
+             Ejemplo Nota 
             </p>
-            <a href="noticias/jornada.php" class="ver-mas-noticia" id="leer-mas-noticia">
+            <a href="#" class="ver-mas-noticia" id="leer-mas-noticia">
               Ver...
             </a>
           </article>
@@ -105,15 +105,15 @@
         <li class="li-noticia">
           <article class="articulo-noticia-noticia">
             <figure class="imagen-articulo-noticia">
-              <img src="../../assets/img/tec-forestal.png" alt="Imagen Articulo" id="imagen-noticia">
+              <img src="../../assets/img/segundo.png" alt="Imagen Articulo" id="imagen-noticia">
             </figure>
             <h3 class="titulo-noticia-noticia" id="titulo-noticia-noticia">
-              XXXVIII Reunión Científica-Técnologica Forestal y Agropecuaria Tabasco 2016
+              Ejemplo Noticia
             </h3>
             <p class="nota-texto-noticia" id="descripcion-noticia">
-              V Simposio Internacional en Producción Agroalimentaria Tropical
+              Nota Ejemplo
             </p>
-            <a href="noticias/reunion-cientifica.php" class="ver-mas-noticia" id="leer-mas-noticia">
+            <a href="#" class="ver-mas-noticia" id="leer-mas-noticia">
               Ver...
             </a>
           </article>
@@ -121,15 +121,15 @@
         <li class="li-noticia">
           <article class="articulo-noticia-noticia">
             <figure class="imagen-articulo-noticia">
-              <img src="../../assets/img/conve1.jpg" alt="Imagen Articulo" id="imagen-noticia">
+              <img src="../../assets/img/segundo.png" alt="Imagen Articulo" id="imagen-noticia">
             </figure>
             <h3 class="titulo-noticia-noticia" id="titulo-noticia-noticia">
-              FIRMA DE CONVENIO
+              Ejemplo Noticia
             </h3>
             <p class="nota-texto-noticia" id="descripcion-noticia">
-              Firma de convenio de colaboración entre la comisión nacional para el Desarrollo De Los Pueblos Indígenas (CDI TABASCO) y el Instituto Tecnológico De La Zona Olmeca (ITZO)...
+              Nota Ejemplo
             </p>
-            <a href="noticias/convenio.php" class="ver-mas-noticia" id="leer-mas-noticia">
+            <a href="#" class="ver-mas-noticia" id="leer-mas-noticia">
               Ver...
             </a>
           </article>
@@ -182,7 +182,7 @@
         </a>
       </li>
       <li>
-        <a href="../instituto/organigrama.php">
+        <a href="../contactanos.php">
           ORGANIGRAMA
         </a>
       </li>
@@ -222,17 +222,17 @@
     <a href="#" class="no-visto-lista icon-cross" id="cerrar-menu-centro"></a>
     <ul class="no-visto-lista" id="instituto-lista-centro">
       <li>
-        <a href="../contactanos.php">
+        <a href="../desarrollo.php">
           SII ALUMNOS
         </a>
       </li>
       <li>
-        <a href="../contactanos.php">          
+        <a href="../desarrollo.php">          
           SII DOCENTES
         </a>
       </li>
       <li>
-        <a href="../contactanos.php">
+        <a href="../desarrollo.php">
           AVISOS
         </a>
       </li>
@@ -242,12 +242,12 @@
         </a>
       </li>      
       <li>
-        <a href="../contactanos.php">
+        <a href="../desarrollo.php">
           FORMATOS DIVERSOS
         </a>
       </li>      
       <li>
-        <a href="../contactanos.php">
+        <a href="../desarrollo.php">
           TABULADOR DE SERVICIOS
         </a>
       </li>      

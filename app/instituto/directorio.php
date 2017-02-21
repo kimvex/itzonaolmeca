@@ -74,151 +74,100 @@
     <ul class="ul-directorio">
       <li class="li-directorio-titulo">Áreas</li>
       <li class="li-directorio-titulo">Extenciones</li>
-      <li class="li-directorio-titulo">Encargados</li>
     </ul>
     <ul class="ul-directorio-t">
       <li class="li-directorio-titulo">Dirección</li>
       <li class="li-directorio-titulo">102</li>
-      <li class="li-directorio-titulo">M.C. José Javier Peralta Cosgaya</li>
     </ul>    
     <ul class="ul-directorio-t">
       <li class="li-directorio-titulo">Sub. De Planeación</li>
       <li class="li-directorio-titulo">104</li>
-      <li class="li-directorio-titulo">Ing. Salomón Hernández Hernández</li>
     </ul>    
     <ul class="ul-directorio-t">
       <li class="li-directorio-titulo">Sub. Académica</li>
       <li class="li-directorio-titulo">105</li>
-      <li class="li-directorio-titulo">Ing. Carlos Mario Marín Valenzuela</li>
     </ul>    
     <ul class="ul-directorio-t">
       <li class="li-directorio-titulo">Sub. Administrativa</li>
       <li class="li-directorio-titulo">106</li>
-      <li class="li-directorio-titulo">Lic. Mercedes Wade Alejo</li>
     </ul>    
     <ul class="ul-directorio-t">
       <li class="li-directorio-titulo">Depto. De Ingenierías</li>
       <li class="li-directorio-titulo">108</li>
-      <li class="li-directorio-titulo">Ing. Ismael Valencia Hernández 
-
-      M.C. Juan De la Cruz May
-
-      M.C. Héctor Sandoval Villa
-      
-      DRA. Lilia Frayre Sierra</li>
     </ul>    
     <ul class="ul-directorio-t">
       <li class="li-directorio-titulo">Recepción</li>
       <li class="li-directorio-titulo">109</li>
-      <li class="li-directorio-titulo">C. Micaela De Dios Sanchez</li>
     </ul>    
     <ul class="ul-directorio-t">
       <li class="li-directorio-titulo">Fax Dirección</li>
       <li class="li-directorio-titulo">114</li>
-      <li class="li-directorio-titulo">FAX</li>
     </ul>    
     <ul class="ul-directorio-t">
       <li class="li-directorio-titulo">Depto. De Ciencias Básicas y/o RD</li>
       <li class="li-directorio-titulo">115</li>
-      <li class="li-directorio-titulo">Arq. Oswaldo Leyva Chávez 
-      
-      M.C. Jotam Salaya Dominguez
-      
-      M.C. Eduardo Lleverino González
-      </li>
     </ul>
     <ul class="ul-directorio-t">
       <li class="li-directorio-titulo">Rec. Financieros</li>
       <li class="li-directorio-titulo">117</li>
-      <li class="li-directorio-titulo">Ing. Vicente De la Cruz Muñoz
-      
-      C. Concepción Pérez Jiménez
-      </li>
     </ul>    
     <ul class="ul-directorio-t">
       <li class="li-directorio-titulo">Rec. Humanos</li>
       <li class="li-directorio-titulo">119</li>
-      <li class="li-directorio-titulo">Lic. Guillermina Peña Padilla
       </li>
     </ul>
     <ul class="ul-directorio-t">
       <li class="li-directorio-titulo">Planeación Comunicación y Difusión</li>
       <li class="li-directorio-titulo">120</li>
-      <li class="li-directorio-titulo">M.C. Pedro Salvador Morales
-      
-      Analí García Morales
-      </li>
     </ul>    
     <ul class="ul-directorio-t">
       <li class="li-directorio-titulo">Depto. De Gest. Tecn y Vinculación</li>
       <li class="li-directorio-titulo">121</li>
-      <li class="li-directorio-titulo">Ing. Héctor Andrade Prado
-      </li>
     </ul>    
     <ul class="ul-directorio-t">
       <li class="li-directorio-titulo">Laboratorio de Parasitología A.  
       </li>
       <li class="li-directorio-titulo">130</li>
-      <li class="li-directorio-titulo">Prfra. Elia Inés Hernández Magaña
-      </li>
     </ul>    
     <ul class="ul-directorio-t">
       <li class="li-directorio-titulo">Laboratorio de Biotecnología 
       </li>
       <li class="li-directorio-titulo">132</li>
-      <li class="li-directorio-titulo">Dr. Emeterio Payro De la Cruz
-      </li>
     </ul>    
     <ul class="ul-directorio-t">
       <li class="li-directorio-titulo">Depto de Servicios Escolares 
       </li>
       <li class="li-directorio-titulo">135</li>
-      <li class="li-directorio-titulo">Ing. Darvelia Avalos Torres
-      </li>
     </ul>    
     <ul class="ul-directorio-t">
       <li class="li-directorio-titulo">Desarrollo Académico 
       </li>
       <li class="li-directorio-titulo">136</li>
-      <li class="li-directorio-titulo">M.C. Jotam Salaya Dominguez
-      </li>
     </ul>    
     <ul class="ul-directorio-t">
       <li class="li-directorio-titulo">Almacén 
       </li>
       <li class="li-directorio-titulo">137</li>
-      <li class="li-directorio-titulo">C. Antonio Hernández López
-      </li>
     </ul>    
     <ul class="ul-directorio-t">
       <li class="li-directorio-titulo">Recurso Materiales 
       </li>
       <li class="li-directorio-titulo">138</li>
-      <li class="li-directorio-titulo">C. María Eugenia Sosa De la Cruz
-      </li>
     </ul>    
     <ul class="ul-directorio-t">
       <li class="li-directorio-titulo">Centro de Cómputo 
       </li>
       <li class="li-directorio-titulo">139</li>
-      <li class="li-directorio-titulo">Ing. Roberto González Evia
-      </li>
     </ul>    
     <ul class="ul-directorio-t">
       <li class="li-directorio-titulo">Centro de Información 
       </li>
       <li class="li-directorio-titulo">142</li>
-      <li class="li-directorio-titulo">Ing. Jorge Alberto Vidal García
-      
-      C. Concepción Avalos Ortiz
-      </li>
     </ul>    
     <ul class="ul-directorio-t">
       <li class="li-directorio-titulo">Sindicato 
       </li>
       <li class="li-directorio-titulo">144</li>
-      <li class="li-directorio-titulo">Profr. José Francisco Magaña Tejeda
-      </li>
     </ul>    
   </section>
   <footer class="pies">
@@ -266,7 +215,7 @@
         </a>
       </li>
       <li>
-        <a href="organigrama.php">
+        <a href="../contactanos.php">
           ORGANIGRAMA
         </a>
       </li>
@@ -306,17 +255,17 @@
     <a href="#" class="no-visto-lista icon-cross" id="cerrar-menu-centro"></a>
     <ul class="no-visto-lista" id="instituto-lista-centro">
       <li>
-        <a href="../contactanos.php">
+        <a href="../desarrollo.php">
           SII ALUMNOS
         </a>
       </li>
       <li>
-        <a href="../contactanos.php">          
+        <a href="../desarrollo.php">          
           SII DOCENTES
         </a>
       </li>
       <li>
-        <a href="../contactanos.php">
+        <a href="../desarrollo.php">
           AVISOS
         </a>
       </li>
@@ -326,12 +275,12 @@
         </a>
       </li>      
       <li>
-        <a href="../contactanos.php">
+        <a href="../desarrollo.php">
           FORMATOS DIVERSOS
         </a>
       </li>      
       <li>
-        <a href="../contactanos.php">
+        <a href="../desarrollo.php">
           TABULADOR DE SERVICIOS
         </a>
       </li>      

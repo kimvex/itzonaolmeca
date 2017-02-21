@@ -66,7 +66,23 @@
     </nav>
   </header>
   <section class="cuerpo-contactanos">
-    <h2>Estamos en desarrollo, regresa más tarde.</h2>
+    <h2>Contáctanos</h2>
+    <form id="formulario" class="formulario">
+      <div class="superior">      
+        <div class="form-izquierdo">      
+          <input type="text" name="nombre" id="nombre" placeholder="Tu nombre*">
+          <input type="email" name="correo" id="correo" placeholder="Tu correo*">
+          <input type="tel" name="telefono" id="telefono" placeholder="Teléfono*">
+        </div>
+        <div class="form-derecho">      
+          <textarea placeholder="Tu mensaje" data-validation-required-message="Por favor ingresa tu mensaje." id="mensaje" class="mensaje">
+          </textarea>
+        </div>
+      </div>
+      <div class="boton">
+        <input type="submit" name="enviar-mensaje" id="enviar-mensaje">
+      </div>
+    </form>  
   </section>
   <footer class="pies">
     <ul class="pies-lista">
@@ -113,7 +129,7 @@
         </a>
       </li>
       <li>
-        <a href="instituto/organigrama.php">
+        <a href="desarrollo.php">
           ORGANIGRAMA
         </a>
       </li>
@@ -153,17 +169,17 @@
     <a href="#" class="no-visto-lista icon-cross" id="cerrar-menu-centro"></a>
     <ul class="no-visto-lista" id="instituto-lista-centro">
       <li>
-        <a href="contactanos.php">
+        <a href="desarrollo.php">
           SII ALUMNOS
         </a>
       </li>
       <li>
-        <a href="contactanos.php">          
+        <a href="desarrollo.php">          
           SII DOCENTES
         </a>
       </li>
       <li>
-        <a href="contactanos.php">
+        <a href="desarrollo.php">
           AVISOS
         </a>
       </li>
@@ -173,12 +189,12 @@
         </a>
       </li>      
       <li>
-        <a href="contactanos.php">
+        <a href="desarrollo.php">
           FORMATOS DIVERSOS
         </a>
       </li>      
       <li>
-        <a href="contactanos.php">
+        <a href="desarrollo.php">
           TABULADOR DE SERVICIOS
         </a>
       </li>      

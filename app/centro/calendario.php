@@ -68,7 +68,7 @@
   <section class="cuerpo-calendario">  
     <span class="ir-arriba"></span>
     <h3>Calendario Escolar</h3>
-    <h4>Período Enero-Julio 2016</h4>
+    <h4>Período Enero-Julio 2017</h4>
     <nav class="meses">
       <li class="li-meses" id="enero">Enero</li>
       <li class="li-meses" id="febrero">Febrero</li>
@@ -127,7 +127,7 @@
         </a>
       </li>
       <li>
-        <a href="../instituto/organigrama.php">
+        <a href="../contactanos.php">
           ORGANIGRAMA
         </a>
       </li>
@@ -167,17 +167,17 @@
     <a href="#" class="no-visto-lista icon-cross" id="cerrar-menu-centro"></a>
     <ul class="no-visto-lista" id="instituto-lista-centro">
       <li>
-        <a href="../contactanos.php">
+        <a href="../desarrollo.php">
           SII ALUMNOS
         </a>
       </li>
       <li>
-        <a href="../contactanos.php">          
+        <a href="../desarrollo.php">          
           SII DOCENTES
         </a>
       </li>
       <li>
-        <a href="../contactanos.php">
+        <a href="../desarrollo.php">
           AVISOS
         </a>
       </li>
@@ -187,12 +187,12 @@
         </a>
       </li>      
       <li>
-        <a href="../contactanos.php">
+        <a href="../desarrollo.php">
           FORMATOS DIVERSOS
         </a>
       </li>      
       <li>
-        <a href="../contactanos.php">
+        <a href="../desarrollo.php">
           TABULADOR DE SERVICIOS
         </a>
       </li>      
