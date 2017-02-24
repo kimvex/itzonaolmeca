@@ -35,35 +35,39 @@
       </ul>
     </nav>
     <span class="icon-menu menu-movil"></span>
-    <nav class="menu blanco" id="menu-cont">
-      <ul class="opciones-menu">
-        <li>
-          <a href="/">
-            INICIO
-          </a>
-        </li>
-        <li>
-          <a href="#" id="inst">
-            NUESTRO INSTITUTO
-          </a>
-        </li>
-        <li>
-          <a href="#" id="oferta">
-            OFERTA EDUCATIVA
-          </a>
-        </li>
-        <li>
-          <a href="#" id="centro">
-            CENTRO DE SERVICIO
-          </a>
-        </li>
-        <li>
-          <a href="app/contactanos.php">
-            CONTÁCTANOS
-          </a>
-        </li>
-      </ul>
-    </nav>
+    <ul class="nav" id="menu-cont">
+	<li><a href="/">INICIO</a></li>
+	<li><a href="">NUESTRO INSTITUTO</a>
+		<ul>
+			<li><a href="app/instituto/mensaje.php">MENSAJE DEL DIRECTOR</a></li>
+			<li><a href="app/instituto/directorio.php">DIRECTORIO TELEFÓNICO</a></li>
+			<li><a href="app/instituto/filosofia.php">FILOSOFÍA</a></li>
+			<li><a href="app/desarrollo.php">ORGANIGRAMA</a>
+			<li><a href="http://www.tecnm.mx/informacion/normateca-dgest" target="_blank">MANUALES Y LINEAMIENTOS</a>
+			</li>
+		</ul>
+	</li>
+	<li><a href="">OFERTA EDUCATIVA</a>
+		<ul>
+			<li><a href="app/oferta/sistemas.php">INGENIERÍA EN SISTEMAS</a></li>
+			<li><a href="app/oferta/agronomia.php">INGENIERÍA EN AGRONOMÍA</a></li>
+			<li><a href="app/oferta/forestal.php">INGENIERÍA FORESTAL</a></li>
+			<li><a href="app/oferta/desarrollo.php">INGENIERÍA EN DESARROLLO COMUNITARIO</a></li>
+		</ul>
+	</li>
+	<li><a href="">CENTRO DE SERVICIO</a>
+		<ul>
+			<li><a href="app/desarrollo.php">SII ALUMNOS</a></li>
+			<li><a href="app/desarrollo.php">SII DOCENTES</a></li>
+			<li><a href="app/desarrollo.php">AVISOS</a></li>
+			<li><a href="app/centro/calendario.php">CALENDARIO ESCOLAR</a></li>
+			<li><a href="app/desarrollo.php">FORMATOS DIVERSOS</a></li>
+			<li><a href="app/desarrollo.php">TABULADOR DE SERVICIOS</a></li>
+			<li><a href="app/centro/noticias.php">NOTICIAS</a></li>
+		</ul>
+	</li>
+	<li><a href="app/contactanos.php">CONTÁCTANOS</a></li>
+	</ul>
   </header>
   <section class="cuerpo">
     <div class="noticias-importantes">

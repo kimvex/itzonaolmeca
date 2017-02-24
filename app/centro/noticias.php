@@ -35,35 +35,102 @@
         </li>
       </ul>
     </nav>
-    <nav class="menu blanco" id="menu-cont">
-      <ul class="opciones-menu">
+    <ul class="nav" id="menu-cont">
+    <li><a href="/">INICIO</a></li>
+    <li><a href="">NUESTRO INSTITUTO</a>
+    <ul>
+      <li>
+        <a href="../instituto/mensaje.php">
+          MENSAJE DEL DIRECTOR
+        </a>
+      </li>
+      <li>
+        <a href="../instituto/directorio.php">          
+          DIRECTORIO TELEFÓNICO
+        </a>
+      </li>
+      <li>
+        <a href="../instituto/filosofia.php">
+          FILOSOFÍA 
+        </a>
+      </li>
+      <li>
+        <a href="../desarrollo.php">
+          ORGANIGRAMA
+        </a>
+      </li>
+      <li>
+        <a href="http://www.tecnm.mx/informacion/normateca-dgest" target="_blank">
+          MANUALES Y LINEAMIENTOS
+        </a>
+      </li>
+    </ul>
+    </li>
+    <li><a href="">OFERTA EDUCATIVA</a>
+      <ul>
         <li>
-          <a href="/">
-            INICIO
+          <a href="../oferta/sistemas.php">
+            INGENIERÍA EN SISTEMAS
           </a>
         </li>
         <li>
-          <a href="#" id="inst">
-            NUESTRO INSTITUTO
+          <a href="../oferta/agronomia.php">          
+            INGENIERÍA EN AGRONOMÍA
           </a>
         </li>
         <li>
-          <a href="#" id="oferta">
-            OFERTA EDUCATIVA
+          <a href="../oferta/forestal.php">
+            INGENIERÍA FORESTAL
           </a>
         </li>
         <li>
-          <a href="#" id="centro">
-            CENTRO DE SERVICIO
-          </a>
-        </li>
-        <li>
-          <a href="../contactanos.php">
-            CONTÁCTANOS
+          <a href="../oferta/desarrollo.php">
+            INGENIERÍA EN DESARROLLO COMUNITARIO
           </a>
         </li>
       </ul>
-    </nav>
+    </li>
+    <li><a href="">CENTRO DE SERVICIO</a>
+      <ul>
+        <li>
+          <a href="../desarrollo.php">
+            SII ALUMNOS
+          </a>
+        </li>
+        <li>
+          <a href="../desarrollo.php">          
+            SII DOCENTES
+          </a>
+        </li>
+        <li>
+          <a href="../desarrollo.php">
+            AVISOS
+          </a>
+        </li>
+        <li>
+          <a href="calendario.php">
+            CALENDARIO ESCOLAR
+          </a>
+        </li>      
+        <li>
+          <a href="../desarrollo.php">
+            FORMATOS DIVERSOS
+          </a>
+        </li>      
+        <li>
+          <a href="../desarrollo.php">
+            TABULADOR DE SERVICIOS
+          </a>
+        </li>      
+        <li>
+          <a href="noticias.php">
+            NOTICIAS
+          </a>
+        </li>
+      </ul>
+    </li>
+    <li><a href="../contactanos.php">CONTÁCTANOS</a></li>
+    </ul>
   </header>
   <section class="cuerpo-noticias">  
     <span class="ir-arriba"></span>
