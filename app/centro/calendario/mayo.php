@@ -14,7 +14,7 @@
 	<ul class="ul-calendario">
 
 		<li class="li-calendario-n text-calendario">36</li>
-		<li class="li-calendario-a text-calendario">Dia no laborable</li>
+		<li class="li-calendario-a text-calendario">Día no laborable</li>
 		<li class="li-calendario-f text-calendario">1, 5 y 15 de Mayo</li>
 
 		<li class="li-calendario-n text-calendario">37</li>

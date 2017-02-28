@@ -70,42 +70,24 @@
 	</ul>
   </header>
   <section class="cuerpo">
-    <div class="noticias-importantes">
-      <div class="p">
-        <h2>
-          Ejemplo
-        </h2>
-        <h6>
-          Nota ejemplo 
-        </h6>
+    <a href="https://drive.google.com/file/d/0B9r2Bw3FPUIidWRHS2N5ZzBCMEU/view?usp=sharing" target="_blank" class="noticias-importantes">
+      <div class="p informe">
+        <p class="p-title">
+          Informe de rendición de cuentas 2016
+        </p>
+        <p>
+          El Instituto Tecnológico de la Zona Olmeca, perteneciente al Tecnológico Nacional de México, cumpliendo con su responsabilidad de transparentar su actuar...
+        </p>
       </div>    
-      <div class="p">
-        <h2>
-          Ejemplo 2
-        </h2>
-        <h6>
-          Nota ejemplo
-        </h6>
-      </div>
-      <div class="p">
-        <h2>
-          Ejemplo 3
-        </h2>
-        <h6>
-          Nota ejemplo
-        </h6>
-      </div>
-    </div>
-    <a class="boton-galeria" herf="app/contactanos.php">
-      Conócenos
     </a>
+    <a href="app/conocenos/conocenos.php" class="boton-galeria">Conócenos</a>
   </section>
   <div class="titulo-notas-t">
     <h4>NOTICIAS</h4>
   </div>
   <section class="noticia-inicio">
     <ul class="rslides">
-      <a href="app/video-institucional.php" id="img-sider-1"><li><img src="assets/img/video.png" alt=""></li></a>      
+      <a href="https://drive.google.com/file/d/0B9r2Bw3FPUIidWRHS2N5ZzBCMEU/view?usp=sharing" target="_blank" id="img-sider-1"><li><img src="assets/img/rendicion.png" alt="Informe de rendición de cuentas 2016 ITZO"></li></a>      
       <a href="app/video-institucional.php"" id="img-slider-2"><li><img src="assets/img/video.png" alt=""></li></a>
       <a href="#" id="img-sider-3"><li><img src="assets/img/itzo-ins.png" alt=""></li></a>
       <a href="app/video-institucional.php"" id="img-slider-4"><li><img src="assets/img/video.png" alt=""></li></a>
@@ -115,15 +97,15 @@
       <li class="nota-lista-noticia">
         <article class="articulo-noticia">
           <figure class="imagen-articulo-nota">
-            <img src="assets/img/segundo.png" alt="Imagen Articulo" id="imagen-noticia">
+            <img src="assets/img/informe-rendicion-2016.png" alt="Imagen Articulo" id="imagen-noticia">
           </figure>
           <h3 id="titulo-noticia">
-            Reservado para noticias
+            Informe de rendición de cuentas 2016
           </h3>
           <p class="nota-texto" id="descripcion-noticia">
-            Nota ejemplo 
+            El Instituto Tecnológico de la Zona Olmeca, perteneciente al Tecnológico Nacional de México, cumpliendo con su responsabilidad de transparentar su actuar, mediante el presente documento hace evidente su compromiso con la Sociedad de garantizar una Educación laica, pública, gratuita y de calidad, buscando alcanzar los tres objetivos esenciales de la Reforma Educativa: mejores Instituciones, mejores Maestros y mejores Contenidos. 
           </p>
-          <a href="app/centro/noticias.php" class="leer-mas" id="leer-mas-noticia">
+          <a href="https://drive.google.com/file/d/0B9r2Bw3FPUIidWRHS2N5ZzBCMEU/view?usp=sharing" class="leer-mas" id="leer-mas-noticia" target="_blank">
             Leer más...
           </a>
         </article>
@@ -184,7 +166,7 @@
       <li class="tamano">
         <ul class="redes-lista">
           <li class="item-redes-titulo">Síguenos en las redes sociales</li>
-          <li class="item-redes"><a href="#" class="icon-facebook" target="_blank">Facebook</a></li>
+          <li class="item-redes"><a href="https://www.facebook.com/ITZOlmeca" class="icon-facebook" target="_blank">Facebook</a></li>
           <li class="item-redes"><a href="#" class="icon-twitter" target="_blank">Twitter</a></li>
         </ul>
       </li>

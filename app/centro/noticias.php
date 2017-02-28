@@ -140,15 +140,15 @@
         <li class="li-noticia">
           <article class="articulo-noticia-noticia">
             <figure class="imagen-articulo-noticia">
-              <img src="../../assets/img/segundo.png" alt="Imagen Articulo" id="imagen-noticia">
+              <img src="../../assets/img/informe-rendicion-2016.png" alt="Imagen Articulo" id="imagen-noticia">
             </figure>
             <h3 class="titulo-noticia-noticia" id="titulo-noticia-noticia">
-              Ejemplo Noticia
+              Informe de rendición de cuentas 2016
             </h3>
             <p class="nota-texto-noticia" id="descripcion-noticia">
-              Ejemplo nota
+              El Instituto Tecnológico de la Zona Olmeca, perteneciente al Tecnológico Nacional de México, cumpliendo con su responsabilidad de transparentar su actuar, mediante el presente documento hace evidente su compromiso con la Sociedad de garantizar una Educación laica, pública, gratuita y de calidad, buscando alcanzar los tres objetivos esenciales de la Reforma Educativa: mejores Instituciones, mejores Maestros y mejores Contenidos.
             </p>
-            <a href="#" class="ver-mas-noticia" id="leer-mas-noticia">
+            <a href="https://drive.google.com/file/d/0B9r2Bw3FPUIidWRHS2N5ZzBCMEU/view?usp=sharing" target="_blank" class="ver-mas-noticia" id="leer-mas-noticia">
               Ver...
             </a>
           </article>
@@ -209,7 +209,7 @@
       <li class="tamano">
         <ul class="redes-lista">
           <li class="item-redes-titulo">Síguenos en las redes sociales</li>
-          <li class="item-redes"><a href="#" class="icon-facebook">Facebook</a></li>
+          <li class="item-redes"><a href="https://www.facebook.com/ITZOlmeca" class="icon-facebook">Facebook</a></li>
           <li class="item-redes"><a href="#" class="icon-twitter">Twitter</a></li>
         </ul>
       </li>
