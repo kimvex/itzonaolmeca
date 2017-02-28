@@ -147,7 +147,7 @@
       <li class="li-directorio-titulo">102</li>
     </ul>    
     <ul class="ul-directorio-t">
-      <li class="li-directorio-titulo">Sub. De Planeación</li>
+      <li class="li-directorio-titulo">Sub. de Planeación</li>
       <li class="li-directorio-titulo">104</li>
     </ul>    
     <ul class="ul-directorio-t">
@@ -159,7 +159,7 @@
       <li class="li-directorio-titulo">106</li>
     </ul>    
     <ul class="ul-directorio-t">
-      <li class="li-directorio-titulo">Depto. De Ingenierías</li>
+      <li class="li-directorio-titulo">Depto. de Ingenierías</li>
       <li class="li-directorio-titulo">108</li>
     </ul>    
     <ul class="ul-directorio-t">
@@ -171,7 +171,7 @@
       <li class="li-directorio-titulo">114</li>
     </ul>    
     <ul class="ul-directorio-t">
-      <li class="li-directorio-titulo">Depto. De Ciencias Básicas y/o RD</li>
+      <li class="li-directorio-titulo">Depto. de Ciencias Básicas y/o RD</li>
       <li class="li-directorio-titulo">115</li>
     </ul>
     <ul class="ul-directorio-t">
@@ -188,7 +188,7 @@
       <li class="li-directorio-titulo">120</li>
     </ul>    
     <ul class="ul-directorio-t">
-      <li class="li-directorio-titulo">Depto. De Gest. Tecn y Vinculación</li>
+      <li class="li-directorio-titulo">Depto. de Gest. Tecn y Vinculación</li>
       <li class="li-directorio-titulo">121</li>
     </ul>    
     <ul class="ul-directorio-t">
@@ -242,7 +242,7 @@
       <li class="tamano">
         <ul class="redes-lista">
           <li class="item-redes-titulo">Síguenos en las redes sociales</li>
-          <li class="item-redes"><a href="#" class="icon-facebook">Facebook</a></li>
+          <li class="item-redes"><a href="https://www.facebook.com/ITZOlmeca" class="icon-facebook">Facebook</a></li>
           <li class="item-redes"><a href="#" class="icon-twitter">Twitter</a></li>
         </ul>
       </li>

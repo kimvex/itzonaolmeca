@@ -14,7 +14,7 @@
 	<ul class="ul-calendario">
 
 		<li class="li-calendario-n text-calendario">27</li>
-		<li class="li-calendario-a text-calendario">Dia no laborable</li>
+		<li class="li-calendario-a text-calendario">Día no laborable</li>
 		<li class="li-calendario-f text-calendario">20 de Marzo</li>
 
 		<li class="li-calendario-n text-calendario">28</li>

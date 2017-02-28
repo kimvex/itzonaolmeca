@@ -141,7 +141,7 @@
       <li class="tamano">
         <ul class="redes-lista">
           <li class="item-redes-titulo">Síguenos en las redes sociales</li>
-          <li class="item-redes"><a href="#" class="icon-facebook" target="_blank">Facebook</a></li>
+          <li class="item-redes"><a href="https://www.facebook.com/ITZOlmeca" class="icon-facebook" target="_blank">Facebook</a></li>
           <li class="item-redes"><a href="#" class="icon-twitter" target="_blank">Twitter</a></li>
         </ul>
       </li>
