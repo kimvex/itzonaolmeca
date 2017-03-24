@@ -35,48 +35,115 @@
         </li>
       </ul>
     </nav>
-    <nav class="menu blanco" id="menu-cont">
-      <ul class="opciones-menu">
+    <ul class="nav" id="menu-cont">
+    <li><a href="/">INICIO</a></li>
+    <li><a href="">NUESTRO INSTITUTO</a>
+    <ul>
+      <li>
+        <a href="../../instituto/mensaje.php">
+          MENSAJE DEL DIRECTOR
+        </a>
+      </li>
+      <li>
+        <a href="../../instituto/directorio.php">          
+          DIRECTORIO TELEFÓNICO
+        </a>
+      </li>
+      <li>
+        <a href="../../instituto/filosofia.php">
+          FILOSOFÍA 
+        </a>
+      </li>
+      <li>
+        <a href="../../desarrollo.php">
+          ORGANIGRAMA
+        </a>
+      </li>
+      <li>
+        <a href="http://www.tecnm.mx/informacion/normateca-dgest" target="_blank">
+          MANUALES Y LINEAMIENTOS
+        </a>
+      </li>
+    </ul>
+    </li>
+    <li><a href="">OFERTA EDUCATIVA</a>
+      <ul>
         <li>
-          <a href="/">
-            INICIO
+          <a href="../../oferta/sistemas.php">
+            INGENIERÍA EN SISTEMAS
           </a>
         </li>
         <li>
-          <a href="#" id="inst">
-            NUESTRO INSTITUTO
+          <a href="../../oferta/agronomia.php">          
+            INGENIERÍA EN AGRONOMÍA
           </a>
         </li>
         <li>
-          <a href="#" id="oferta">
-            OFERTA EDUCATIVA
+          <a href="../../oferta/forestal.php">
+            INGENIERÍA FORESTAL
           </a>
         </li>
         <li>
-          <a href="#" id="centro">
-            CENTRO DE SERVICIO
-          </a>
-        </li>
-        <li>
-          <a href="../../contactanos.php">
-            CONTACTANOS
+          <a href="../../oferta/desarrollo.php">
+            INGENIERÍA EN DESARROLLO COMUNITARIO
           </a>
         </li>
       </ul>
-    </nav>
+    </li>
+    <li><a href="">CENTRO DE SERVICIO</a>
+      <ul>
+        <li>
+          <a href="../../desarrollo.php">
+            SII ALUMNOS
+          </a>
+        </li>
+        <li>
+          <a href="../../desarrollo.php">          
+            SII DOCENTES
+          </a>
+        </li>
+        <li>
+          <a href="../../desarrollo.php">
+            AVISOS
+          </a>
+        </li>
+        <li>
+          <a href="../calendario.php">
+            CALENDARIO ESCOLAR
+          </a>
+        </li>      
+        <li>
+          <a href="../../desarrollo.php">
+            FORMATOS DIVERSOS
+          </a>
+        </li>      
+        <li>
+          <a href="../../desarrollo.php">
+            TABULADOR DE SERVICIOS
+          </a>
+        </li>      
+        <li>
+          <a href="../noticias.php">
+            NOTICIAS
+          </a>
+        </li>
+      </ul>
+    </li>
+    <li><a href="../../contactanos.php">CONTÁCTANOS</a></li>
+    </ul>
   </header>
   <section class="cuerpo-noticias-informacion">
     <span class="ir-arriba"></span>  
-    <h3>Inscripciones abiertas para el ciclo escolar Agosto-Diciembre 2016</h3>
+    <h3>Inscripciones abiertas para el ciclo escolar Agosto-Diciembre 2017</h3>
     <figure>
-      <img src="../../../assets/img/itzopromocion.jpg">
+      <img src="../../../assets/img/admision-2017.png">
     </figure>
-    <p>La Secretaría de Educación Pública, la SubSecretaría de Educación Superior y el Tecnológico Nacional de México, CONVOCAN a todos los egresados del Nivel Medio Superior a participar en la solicitud de ingreso a la Educación Superior en el Instituto Tecnológico de la Zona Olmeca para el ciclo escolar Agosto-Diciembre 2016.
+    <p>La Secretaría de Educación Pública, La Subsecretaría de Educación Superior y el Tecnológico Nacional de México, CONVOCAN a todos los egresados del nivel medio superior a participar en la solicitud de nuevo ingreso a la educación media superior del Instituto Tecnológico de la Zona Olmeca para el ciclo escolar Agosto - Diciembre 2017.
     
     REQUISITOS DE ADMISIÓN:
 
     1. SOLICITUD
-    Deberá registrarse en la página www.itzonaolmeca.edu.mx del 28 de abril hasta el 1ro. de Junio de 2016.(Si esta disponible)
+    Entrega de fichas a partir de la publicación de la presente, hasta 31 de mayo del presente año.
 
     2. REQUISITOS(Original y Copia)
     Certificado o constacia de haber acreditado el bachiller.
@@ -88,11 +155,11 @@
     3. REGISTRO
     Obligatorio realizar su registro en el Departamento de Desarrollo Académico.
 
-    4. EXAMEN
-    El dia 03 de Junio de 2016 presentar el Examen (EXANI II) para aspirantes a Licenciatura, el cual será aplicado y evaluado por el CENEVAL, A. C. en las instalaciones del Instituto Tecnológico de la Zona Olmeca, a partir de las 9:00 a.m.
+    4. EXÁMEN
+    El día 02 de Junio de 2017 presentar el Examen (EXANI II) para aspirantes a Licenciatura, el cual será aplicado y evaluado por el CENEVAL, A. C. en las instalaciones del Instituto Tecnológico de la Zona Olmeca, a partir de las 9:00 a.m.
 
     5. PUBLICACIÓN DE RESULTADOS
-    El dia 17 de junio del 2016 en la página www.itzonaolmeca.edu.mx
+    En la página www.itzonaolmeca.edu.mx
     </p>
 
   </section>
@@ -100,8 +167,8 @@
     <ul class="pies-lista">
       <li class="tamano">
         <ul class="redes-lista">
-          <li class="item-redes-titulo">Siguenos en las redes sociales</li>
-          <li class="item-redes"><a href="#" class="icon-facebook">Facebook</a></li>
+          <li class="item-redes-titulo">Síguenos en las redes sociales</li>
+          <li class="item-redes"><a href="https://www.facebook.com/ITZOlmeca" class="icon-facebook">Facebook</a></li>
           <li class="item-redes"><a href="#" class="icon-twitter">Twitter</a></li>
         </ul>
       </li>

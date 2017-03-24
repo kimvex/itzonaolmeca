@@ -5,6 +5,7 @@
   <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1" />
   <meta name="description" content="El Instituto Tecnológico de la Zona Olmeca  ofrece servicios educativos de calidad que contribuyan en la formación integral de profesionistas competentes."/>
   <meta name="keywords" content="ITZO,itzonaolmeca,instituto tecnologico de la zona olmeca, tecnologico, olmeca" />
+  <meta name="author" content="www.kimvex.com">
   <link rel="icon" href="assets/img/4.png" type="image/x-icon" />
   <title>Instituto Tecnológico de la Zona Olmeca</title>
   <link rel="stylesheet" href="assets/css/normalize.css">
@@ -70,8 +71,20 @@
 	</ul>
   </header>
   <section class="cuerpo">
-    <a href="https://drive.google.com/file/d/0B9r2Bw3FPUIidWRHS2N5ZzBCMEU/view?usp=sharing" target="_blank" class="noticias-importantes">
-      <div class="p informe">
+    <a href="app/centro/noticias/inscripciones.php" class="noticias-importantes p">
+      <div class="informe">
+        <p class="p-title">
+          CONVOCATORIA
+        </p>
+        <p>
+          A todos los egresados del nivel medio superior a participar en la solicitud de nuevo ingreso a la educación media superior del Instituto Tecnológico de la Zona Olmeca para el ciclo escolar Agosto - Diciembre 2017.
+
+        </p>
+      </div>    
+    </a>
+
+    <a href="https://drive.google.com/file/d/0B9r2Bw3FPUIidWRHS2N5ZzBCMEU/view?usp=sharing" target="_blank" class="noticias-importantes p">
+      <div class="informe">
         <p class="p-title">
           Informe de rendición de cuentas 2016
         </p>
@@ -80,6 +93,19 @@
         </p>
       </div>    
     </a>
+
+    <a href="app/centro/noticias/inscripciones.php" class="noticias-importantes p">
+      <div class="informe">
+        <p class="p-title">
+          CONVOCATORIA
+        </p>
+        <p>
+          A todos los egresados del nivel medio superior a participar en la solicitud de nuevo ingreso a la educación media superior del Instituto Tecnológico de la Zona Olmeca para el ciclo escolar Agosto - Diciembre 2017.
+
+        </p>
+      </div>    
+    </a>
+
     <a href="app/conocenos/conocenos.php" class="boton-galeria">Conócenos</a>
   </section>
   <div class="titulo-notas-t">
@@ -87,9 +113,9 @@
   </div>
   <section class="noticia-inicio">
     <ul class="rslides">
+      <a href="app/centro/noticias/inscripciones.php" id="img-sider-3"><li><img src="assets/img/itzo-ins.png" alt=""></li></a>
       <a href="https://drive.google.com/file/d/0B9r2Bw3FPUIidWRHS2N5ZzBCMEU/view?usp=sharing" target="_blank" id="img-sider-1"><li><img src="assets/img/rendicion.png" alt="Informe de rendición de cuentas 2016 ITZO"></li></a>      
       <a href="app/video-institucional.php"" id="img-slider-2"><li><img src="assets/img/video.png" alt=""></li></a>
-      <a href="#" id="img-sider-3"><li><img src="assets/img/itzo-ins.png" alt=""></li></a>
       <a href="app/video-institucional.php"" id="img-slider-4"><li><img src="assets/img/video.png" alt=""></li></a>
       <a href="#" id="img-slider-5"><li><img src="assets/img/itzo-ins.png" alt=""></li></a>
     </ul>
@@ -113,15 +139,15 @@
       <li class="nota-lista-noticia">
         <article class="articulo-noticia">
           <figure class="imagen-articulo-nota">
-            <img src="assets/img/segundo.png" alt="Imagen Articulo" id="imagen-noticia">
+            <img src="assets/img/admision-2017.png" alt="Imagen Articulo" id="imagen-noticia">
           </figure>
           <h3 id="titulo-noticia">
-            Reservado para noticias
+            Convocatoria
           </h3>
           <p class="nota-texto" id="descripcion-noticia">
-            Nota ejemplo  
+            A todos los egresados del nivel medio superior a participar en la solicitud de nuevo ingreso a la educación media superior del Instituto Tecnológico de la Zona Olmeca para el ciclo escolar Agosto - Diciembre 2017. 
           </p>
-          <a href="app/centro/noticias.php" class="leer-mas" id="leer-mas-noticia">
+          <a href="app/centro/noticias/inscripciones.php" class="leer-mas" id="leer-mas-noticia">
             Leer más...
           </a>
         </article>
@@ -130,15 +156,15 @@
       <li class="nota-lista-noticia">
         <article class="articulo-noticia">
           <figure class="imagen-articulo-nota">
-            <img src="assets/img/segundo.png" alt="Imagen Articulo" id="imagen-noticia">
+            <img src="assets/img/convoca-quintero.png" alt="Imagen Articulo" id="imagen-noticia">
           </figure>
           <h3 id="titulo-noticia">
-            Reservado para noticias
+            Convoca Manuel Quintero
           </h3>
           <p class="nota-texto" id="descripcion-noticia">
-            Nota ejemplo
+            A luchar por ideales y a trabajar unídos para rescatar el Nacionalismo.
           </p>
-          <a href="app/centro/noticias.php" class="leer-mas" id="leer-mas-noticia">
+          <a href="http://tecnm.mx/tecnm/convoca-manuel-quintero-a-luchar-por-ideales-y-a-trabajar-unidos-para-rescate-de-nacionalismo" target="_blank" class="leer-mas" id="leer-mas-noticia">
             Ver más...
           </a>
         </article>
@@ -146,15 +172,15 @@
       <li class="nota-lista-noticia">
         <article class="articulo-noticia">
           <figure class="imagen-articulo-nota">
-            <img src="assets/img/segundo.png" alt="Imagen Articulo" id="imagen-noticia">
+            <img src="assets/img/banda-de-guerra.png" alt="Imagen Articulo" id="imagen-noticia">
           </figure>
           <h3 id="titulo-noticia">
-            Reservado para noticias
+            TecNM
           </h3>
           <p class="nota-texto" id="descripcion-noticia">
-            Nota ejemplo
+            Inauguración del XXIII Encuentro Nacional Estudiantil de Escoltas y Bandas de Guerra.
           </p>
-          <a href="app/centro/noticias.php" class="leer-mas" id="leer-mas-noticia">
+          <a href="https://www.youtube.com/watch?v=c0I4ZgiJoDA&feature=youtu.be" class="leer-mas" target="_blank" id="leer-mas-noticia">
             Leer más...
           </a>
         </article>
