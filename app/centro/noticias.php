@@ -152,19 +152,35 @@
               Ver...
             </a>
           </article>
-        </li>       
+        </li>          
         <li class="li-noticia">
           <article class="articulo-noticia-noticia">
             <figure class="imagen-articulo-noticia">
-              <img src="../../assets/img/segundo.png" alt="Imagen Articulo" id="imagen-noticia">
+              <img src="../../assets/img/admision-2017.png" alt="Imagen Articulo" id="imagen-noticia">
             </figure>
             <h3 class="titulo-noticia-noticia" id="titulo-noticia-noticia">
-              Ejemplo Noticia
+              Convocatoria
             </h3>
             <p class="nota-texto-noticia" id="descripcion-noticia">
-             Ejemplo Nota 
+              A todos los egresados del nivel medio superior a participar en la solicitud de nuevo ingreso a la educación media superior del Instituto Tecnológico de la Zona Olmeca para el ciclo escolar Agosto - Diciembre 2017. 
             </p>
-            <a href="#" class="ver-mas-noticia" id="leer-mas-noticia">
+            <a href="noticias/inscripciones.php" class="ver-mas-noticia" id="leer-mas-noticia">
+              Ver...
+            </a>
+          </article>
+        </li>          
+        <li class="li-noticia">
+          <article class="articulo-noticia-noticia">
+            <figure class="imagen-articulo-noticia">
+              <img src="../../assets/img/convoca-quintero.png" alt="Imagen Articulo" id="imagen-noticia">
+            </figure>
+            <h3 class="titulo-noticia-noticia" id="titulo-noticia-noticia">
+              Convoca Manuel Quintero
+            </h3>
+            <p class="nota-texto-noticia" id="descripcion-noticia">
+              A luchar por ideales y a trabajar unídos para rescatar el Nacionalismo.
+            </p>
+            <a href="http://tecnm.mx/tecnm/convoca-manuel-quintero-a-luchar-por-ideales-y-a-trabajar-unidos-para-rescate-de-nacionalismo" target="_blank" class="ver-mas-noticia" id="leer-mas-noticia">
               Ver...
             </a>
           </article>
@@ -172,31 +188,15 @@
         <li class="li-noticia">
           <article class="articulo-noticia-noticia">
             <figure class="imagen-articulo-noticia">
-              <img src="../../assets/img/segundo.png" alt="Imagen Articulo" id="imagen-noticia">
+              <img src="../../assets/img/banda-de-guerra.png" alt="Imagen Articulo" id="imagen-noticia">
             </figure>
             <h3 class="titulo-noticia-noticia" id="titulo-noticia-noticia">
-              Ejemplo Noticia
+              TecNM
             </h3>
             <p class="nota-texto-noticia" id="descripcion-noticia">
-              Nota Ejemplo
+              Inauguración del XXIII Encuentro Nacional Estudiantil de Escoltas y Bandas de Guerra.
             </p>
-            <a href="#" class="ver-mas-noticia" id="leer-mas-noticia">
-              Ver...
-            </a>
-          </article>
-        </li>      
-        <li class="li-noticia">
-          <article class="articulo-noticia-noticia">
-            <figure class="imagen-articulo-noticia">
-              <img src="../../assets/img/segundo.png" alt="Imagen Articulo" id="imagen-noticia">
-            </figure>
-            <h3 class="titulo-noticia-noticia" id="titulo-noticia-noticia">
-              Ejemplo Noticia
-            </h3>
-            <p class="nota-texto-noticia" id="descripcion-noticia">
-              Nota Ejemplo
-            </p>
-            <a href="#" class="ver-mas-noticia" id="leer-mas-noticia">
+            <a href="https://www.youtube.com/watch?v=c0I4ZgiJoDA&feature=youtu.be" class="ver-mas-noticia" target="_blank" id="leer-mas-noticia">
               Ver...
             </a>
           </article>
