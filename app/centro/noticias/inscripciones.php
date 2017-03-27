@@ -138,7 +138,7 @@
     <figure>
       <img src="../../../assets/img/admision-2017.png">
     </figure>
-    <p>La Secretaría de Educación Pública, La Subsecretaría de Educación Superior y el Tecnológico Nacional de México, CONVOCAN a todos los egresados del nivel medio superior a participar en la solicitud de nuevo ingreso a la educación media superior del Instituto Tecnológico de la Zona Olmeca para el ciclo escolar Agosto - Diciembre 2017.
+    <p>La Secretaría de Educación Pública, La Subsecretaría de Educación Superior y el Tecnológico Nacional de México, CONVOCAN a todos los egresados del nivel medio superior a participar en la solicitud de nuevo ingreso a la educación superior del Instituto Tecnológico de la Zona Olmeca para el ciclo escolar Agosto - Diciembre 2017.
     
     REQUISITOS DE ADMISIÓN:
 

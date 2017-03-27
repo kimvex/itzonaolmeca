@@ -77,8 +77,7 @@
           CONVOCATORIA
         </p>
         <p>
-          A todos los egresados del nivel medio superior a participar en la solicitud de nuevo ingreso a la educación media superior del Instituto Tecnológico de la Zona Olmeca para el ciclo escolar Agosto - Diciembre 2017.
-
+          A todos los egresados del nivel medio superior a participar en la solicitud de nuevo ingreso a la educación superior del Instituto Tecnológico de la Zona Olmeca para el ciclo escolar Agosto - Diciembre 2017.
         </p>
       </div>    
     </a>
@@ -100,7 +99,7 @@
           CONVOCATORIA
         </p>
         <p>
-          A todos los egresados del nivel medio superior a participar en la solicitud de nuevo ingreso a la educación media superior del Instituto Tecnológico de la Zona Olmeca para el ciclo escolar Agosto - Diciembre 2017.
+          A todos los egresados del nivel medio superior a participar en la solicitud de nuevo ingreso a la educación superior del Instituto Tecnológico de la Zona Olmeca para el ciclo escolar Agosto - Diciembre 2017.
 
         </p>
       </div>    
@@ -145,7 +144,7 @@
             Convocatoria
           </h3>
           <p class="nota-texto" id="descripcion-noticia">
-            A todos los egresados del nivel medio superior a participar en la solicitud de nuevo ingreso a la educación media superior del Instituto Tecnológico de la Zona Olmeca para el ciclo escolar Agosto - Diciembre 2017. 
+            A todos los egresados del nivel medio superior a participar en la solicitud de nuevo ingreso a la educación superior del Instituto Tecnológico de la Zona Olmeca para el ciclo escolar Agosto - Diciembre 2017.
           </p>
           <a href="app/centro/noticias/inscripciones.php" class="leer-mas" id="leer-mas-noticia">
             Leer más...
