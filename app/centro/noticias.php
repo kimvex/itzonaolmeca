@@ -140,6 +140,54 @@
         <li class="li-noticia">
           <article class="articulo-noticia-noticia">
             <figure class="imagen-articulo-noticia">
+              <img src="../../assets/img/fecha-reinscripciones.png" alt="Imagen Articulo" id="imagen-noticia">
+            </figure>
+            <h3 class="titulo-noticia-noticia" id="titulo-noticia-noticia">
+              Fechas de reinscripciones
+            </h3>
+            <p class="nota-texto-noticia" id="descripcion-noticia">
+              Reinscripciones para el ciclo escolar Agosto-Diciembre 2017.
+            </p>
+            <a href="noticias/inscripciones-agosto-diciembre-2017.php" class="ver-mas-noticia" id="leer-mas-noticia">
+              Ver...
+            </a>
+          </article>
+        </li> 
+        <li class="li-noticia">
+          <article class="articulo-noticia-noticia">
+            <figure class="imagen-articulo-noticia">
+              <img src="../../assets/img/proyecta.png" alt="Imagen Articulo" id="imagen-noticia">
+            </figure>
+            <h3 class="titulo-noticia-noticia" id="titulo-noticia-noticia">
+              Convocatorias de movilidad estudiantil
+            </h3>
+            <p class="nota-texto-noticia" id="descripcion-noticia">
+              Convocatorias de movilidad estudiantil a Estados Unidos y Canadá.
+            </p>
+            <a href="noticias/convocatorias-de-movilidad-estudiantil.php" class="ver-mas-noticia" id="leer-mas-noticia">
+              Ver...
+            </a>
+          </article>
+        </li>  
+        <li class="li-noticia">
+          <article class="articulo-noticia-noticia">
+            <figure class="imagen-articulo-noticia">
+              <img src="../../assets/img/compromiso-tnm.png" alt="Imagen Articulo" id="imagen-noticia">
+            </figure>
+            <h3 class="titulo-noticia-noticia" id="titulo-noticia-noticia">
+              Refrendamos Nuestro Compromiso
+            </h3>
+            <p class="nota-texto-noticia" id="descripcion-noticia">
+              Refrendamos Nuestro Compromiso al Director General del Tecnológico Nacional de México.
+            </p>
+            <a href="noticias/compromiso-tnm.php" class="ver-mas-noticia" id="leer-mas-noticia">
+              Ver...
+            </a>
+          </article>
+        </li> 
+        <li class="li-noticia">
+          <article class="articulo-noticia-noticia">
+            <figure class="imagen-articulo-noticia">
               <img src="../../assets/img/informe-rendicion-2016.png" alt="Imagen Articulo" id="imagen-noticia">
             </figure>
             <h3 class="titulo-noticia-noticia" id="titulo-noticia-noticia">
@@ -148,7 +196,7 @@
             <p class="nota-texto-noticia" id="descripcion-noticia">
               El Instituto Tecnológico de la Zona Olmeca, perteneciente al Tecnológico Nacional de México, cumpliendo con su responsabilidad de transparentar su actuar, mediante el presente documento hace evidente su compromiso con la Sociedad de garantizar una Educación laica, pública, gratuita y de calidad, buscando alcanzar los tres objetivos esenciales de la Reforma Educativa: mejores Instituciones, mejores Maestros y mejores Contenidos.
             </p>
-            <a href="https://drive.google.com/file/d/0B9r2Bw3FPUIidWRHS2N5ZzBCMEU/view?usp=sharing" target="_blank" class="ver-mas-noticia" id="leer-mas-noticia">
+            <a href="https://drive.google.com/file/d/0B9r2Bw3FPUIidWRHS2N5ZzBCMEU/view?usp=sharing" class="ver-mas-noticia" id="leer-mas-noticia">
               Ver...
             </a>
           </article>
@@ -180,7 +228,7 @@
             <p class="nota-texto-noticia" id="descripcion-noticia">
               A luchar por ideales y a trabajar unídos para rescatar el Nacionalismo.
             </p>
-            <a href="http://tecnm.mx/tecnm/convoca-manuel-quintero-a-luchar-por-ideales-y-a-trabajar-unidos-para-rescate-de-nacionalismo" target="_blank" class="ver-mas-noticia" id="leer-mas-noticia">
+            <a href="http://tecnm.mx/tecnm/convoca-manuel-quintero-a-luchar-por-ideales-y-a-trabajar-unidos-para-rescate-de-nacionalismo" class="ver-mas-noticia" id="leer-mas-noticia">
               Ver...
             </a>
           </article>
@@ -196,7 +244,7 @@
             <p class="nota-texto-noticia" id="descripcion-noticia">
               Inauguración del XXIII Encuentro Nacional Estudiantil de Escoltas y Bandas de Guerra.
             </p>
-            <a href="https://www.youtube.com/watch?v=c0I4ZgiJoDA&feature=youtu.be" class="ver-mas-noticia" target="_blank" id="leer-mas-noticia">
+            <a href="https://www.youtube.com/watch?v=c0I4ZgiJoDA&feature=youtu.be" class="ver-mas-noticia" id="leer-mas-noticia">
               Ver...
             </a>
           </article>

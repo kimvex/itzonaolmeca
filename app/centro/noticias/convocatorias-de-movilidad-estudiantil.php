@@ -132,22 +132,20 @@
     <li><a href="../../contactanos.php">CONTÁCTANOS</a></li>
     </ul>
   </header>
-  <section class="cuerpo-noticias-informacion"> 
-    <span class="ir-arriba"></span> 
-    <h3>Evento Nacional Estudiantil de Innovación Tecnológica Etapa Local ITZO 2017</h3>
-    <figure>
-          <video src="../../../assets/img/evento-innovación/video/innovacion.mp4" poster="../../../assets/img/FondoF.jpg" controls>
-        </video>
-    </figure>
-    <p>El pasado 25 de Mayo se llevó a cabo el Evento Nacional Estudiantil de Innovación Tecnológica Etapa Local 2017 en el Instituto Tecnológico de la Zona Olmeca, con la participación de 8 proyectos realizados por los estudiantes de las cuatro carreras de ingeniería que se imparten en nuestro Instituto.</p>
-    <a href="galeria-jornada.php" class="ir-galeria-jornada">Ir a la Galeria</a>
+  <section class="cuerpo-noticias-informacion">
+    <span class="ir-arriba"></span>  
+    <h3>Convocatorias de movilidad estudiantil a Estados Unidos y Canadá.</h3>
+    <embed class="pdf-organigrama" src="../../../assets/pdf/Capacitacion_estudiantes_SEP-SRE_Proyecta_10mil_CANADA_2017.pdf" width="850px" height="700px" type="application/pdf">
+    <embed class="pdf-organigrama" src="../../../assets/pdf/Capacitacion_estudiantes_SEP-SRE_Proyecta_100mil_EUA_2017b.pdf" width="850px" height="700px" type="application/pdf">
+    <p> Para mayores informes comunicarse con el coordinador de Inglés del Instituto, M.C. Hector Sandoval Villa</p>
+
   </section>
   <footer class="pies">
     <ul class="pies-lista">
       <li class="tamano">
         <ul class="redes-lista">
-          <li class="item-redes-titulo">Siguenos en las redes sociales</li>
-          <li class="item-redes"><a href="#" class="icon-facebook">Facebook</a></li>
+          <li class="item-redes-titulo">Síguenos en las redes sociales</li>
+          <li class="item-redes"><a href="https://www.facebook.com/ITZOlmeca" class="icon-facebook">Facebook</a></li>
           <li class="item-redes"><a href="#" class="icon-twitter">Twitter</a></li>
         </ul>
       </li>

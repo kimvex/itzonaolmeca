@@ -119,6 +119,62 @@
       <a href="#" id="img-slider-5"><li><img src="assets/img/itzo-ins.png" alt=""></li></a>
     </ul>
     <ul class="noticia-nota">
+
+
+    
+      <li class="nota-lista-noticia">
+        <article class="articulo-noticia">
+          <figure class="imagen-articulo-nota">
+            <img src="assets/img/fecha-reinscripciones.png" alt="Imagen Articulo" id="imagen-noticia">
+          </figure>
+          <h3 id="titulo-noticia">
+            Fechas de reinscripciones
+          </h3>
+          <p class="nota-texto" id="descripcion-noticia">
+            Reinscripciones para el ciclo escolar Agosto-Diciembre 2017. 
+          </p>
+          <a href="app/centro/noticias/inscripciones-agosto-diciembre-2017.php" class="leer-mas" id="leer-mas-noticia">
+            Leer más...
+          </a>
+        </article>
+      </li>
+    
+      <li class="nota-lista-noticia">
+        <article class="articulo-noticia">
+          <figure class="imagen-articulo-nota">
+            <img src="assets/img/proyecta.png" alt="Imagen Articulo" id="imagen-noticia">
+          </figure>
+          <h3 id="titulo-noticia">
+            Convocatorias de movilidad estudiantil
+          </h3>
+          <p class="nota-texto" id="descripcion-noticia">
+            Convocatorias de movilidad estudiantil a Estados Unidos y Canadá. 
+          </p>
+          <a href="app/centro/noticias/convocatorias-de-movilidad-estudiantil.php" class="leer-mas" id="leer-mas-noticia">
+            Leer más...
+          </a>
+        </article>
+      </li>
+
+      <li class="nota-lista-noticia">
+        <article class="articulo-noticia">
+          <figure class="imagen-articulo-nota">
+            <img src="assets/img/compromiso-tnm.png" alt="Imagen Articulo" id="imagen-noticia">
+          </figure>
+          <h3 id="titulo-noticia">
+            Refrendamos Nuestro Compromiso
+          </h3>
+          <p class="nota-texto" id="descripcion-noticia">
+            Refrendamos Nuestro Compromiso al Director General del Tecnológico Nacional de México.
+          </p>
+          <a href="app/centro/noticias/compromiso-tnm.php" class="leer-mas" id="leer-mas-noticia">
+            Leer más...
+          </a>
+        </article>
+      </li>
+
+
+
       <li class="nota-lista-noticia">
         <article class="articulo-noticia">
           <figure class="imagen-articulo-nota">
