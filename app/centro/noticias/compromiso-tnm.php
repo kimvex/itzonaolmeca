@@ -135,7 +135,7 @@
   <section class="cuerpo-noticias-informacion">
     <span class="ir-arriba"></span>  
     <h3>Refrendamos Nuestro Compromiso al Director General del Tecnológico Nacional de México</h3>
-    <embed class="pdf-organigrama" src="../../../assets/pdf/PosicióndedirectoresdeInstitutosyCentrosdelTecNM.pdf" width="850px" height="800px" type="application/pdf">
+    <embed class="pdf-organigrama" src="../../../assets/pdf/compromiso-tnm.pdf" width="850px" height="800px" type="application/pdf">
 
   </section>
   <footer class="pies">
